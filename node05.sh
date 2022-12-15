@@ -1,0 +1,1 @@
+screen -S qa3 -dm tagionwave --ip 10.200.110.13 --net-mode=local --boot=/mnt/share/boot.hibon --dart-init=true --dart-synchronize=true --dart-path=/home/moonbase/tagion_network/data/dart-05.drt --port=4005 --transaction-port=10805 --logger-filename=/home/moonbase/tagion_network/shared/node-05.log -N 11 
