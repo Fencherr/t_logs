@@ -1,0 +1,73 @@
+Logger task: logger
+1671188132 | INFO  | tagionwave: Register: tagionwave logger
+1671188132 | INFO  | heartbeat: Register: heartbeat logger
+1671188132 | INFO  | heartbeat: Start the heart beat
+1671188132 | INFO  | logsubscription: Register: logsubscription logger
+1671188132 | INFO  | logsubscription: Start service port=10700 addresss=0.0.0.0
+1671188132 | INFO  | local-tagion: Register: local-tagion logger
+1671188132 | INFO  | logsubscriptionservice: Register: logsubscriptionservice logger
+1671188132 | INFO  | logsubscriptionservice: Run SSLServiceAPI. Certificate=pem_files/domain.pem, ssl_options.private_key=pem_files/domain.key.pem
+1671188132 | INFO  | responselogsubscriptionservice: Register: responselogsubscriptionservice logger
+1671188132 | TRACE | local-tagion: owner_task_name local-tagion internal_task_name local-tagionnet
+1671188132 | TRACE | local-tagion: Hashgraph pubkey=0241affcd055a6a9
+1671188132 | INFO  | discovery: Register: discovery logger
+1671188132 | INFO  | discovery-internal: Register: discovery-internal logger
+1671188135 | TRACE | discovery-internal: AddressBook.opIndexAssign 0241affcd055a6a9:33
+1671188136 | INFO  | discovery-internal: File Discovery started
+1671188136 | TRACE | discovery-internal: update 1 0241affcd055a6a9
+1671188136 | TRACE | discovery-internal: FILE NETWORK READY 11 < 11 (true) done = false
+1671188136 | TRACE | local-tagion: Network discovered ready
+1671188136 | TRACE | discovery-internal: FILE NETWORK READY 11 < 11 (true) done = false
+1671188136 | TRACE | local-tagion: Start sync addressbook.numOfActiveNodes : 11
+1671188136 | TRACE | local-tagion: Before sync ready addressbook.numOfActiveNodes : 11
+1671188136 | INFO  | tagion.dart: Register: tagion.dart logger
+1671188136 | INFO  | local-tagion: Received ctrl: LIVE
+1671188136 | INFO  | dart.sync: Register: dart.sync logger
+1671188136 | INFO  | dart.sync: DART file created with filename: /home/moonbase/tagion_network/data/dart-10.drt
+1671188136 | INFO  | dart.sync: DART initialized with angle: (0, 0)
+1671188136 | INFO  | dart.sync: DART bullseye: 
+1671188136 | INFO  | local-tagion: Received ctrl: LIVE
+1671188136 | TRACE | dart.sync: syncPool.start active 11 isReady true
+1671188136 | ERROR | dart.sync: Connection failed with code: InternalError
+1671188137 | ERROR | dart.sync: Connection failed with code: InternalError
+1671188137 | ERROR | dart.sync: Connection failed with code: InternalError
+1671188137 | ERROR | dart.sync: Connection failed with code: InternalError
+1671188137 | ERROR | dart.sync: Connection failed with code: InternalError
+1671188137 | ERROR | dart.sync: Connection failed with code: InternalError
+1671188137 | INFO  | dart.sync: exit scope: call stop
+1671188137 | INFO  | dart.sync: Stop dart sync pool
+1671188137 | FATAL | dart.sync: From task dart.sync 'Size of rims should have a size of 1 or more'
+1671188137 | FATAL | dart.sync: core.exception.AssertError@/home/asus/work/tagion_new/tagion/src/lib-dart/tagion/dart/DARTFile.d(596): Size of rims should have a size of 1 or more
+----------------
+??:? [0x5650c1db7b65]
+??:? [0x5650c1de1906]
+??:? [0x5650c1dc14df]
+??:? [0x5650c1db6c66]
+??:? [0x5650c112ad52]
+??:? [0x5650c11237d6]
+??:? [0x5650c112364c]
+??:? [0x5650c1123eb4]
+??:? [0x5650c1123bd1]
+??:? [0x5650c1db8fea]
+1671188137 | FATAL | dart.sync: core.exception.AssertError@/home/asus/work/tagion_new/tagion/src/lib-dart/tagion/dart/DARTFile.d(596): Size of rims should have a size of 1 or more
+----------------
+??:? [0x5650c1db7b65]
+??:? [0x5650c1de1906]
+??:? [0x5650c1dc14df]
+??:? [0x5650c1db6c66]
+??:? [0x5650c112ad52]
+??:? [0x5650c11237d6]
+??:? [0x5650c112364c]
+??:? [0x5650c1123eb4]
+??:? [0x5650c1123bd1]
+??:? [0x5650c1db8fea]
+1671188137 | FATAL | dart.sync: ??:? [0x5650c1db7b65]
+??:? [0x5650c1de1906]
+??:? [0x5650c1dc14df]
+??:? [0x5650c1db6c66]
+??:? [0x5650c112ad52]
+??:? [0x5650c11237d6]
+??:? [0x5650c112364c]
+??:? [0x5650c1123eb4]
+??:? [0x5650c1123bd1]
+??:? [0x5650c1db8fea]
