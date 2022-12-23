@@ -1,0 +1,106 @@
+Waiting for logger
+Logger started
+Register: tagionwave logger
+
+Register: heartbeat logger
+
+Register: local-tagion logger
+
+Register: discovery logger
+
+Register: discovery-internal logger
+
+Register: tagion.dart logger
+
+Register: dart.sync logger
+
+1671715309 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715309 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715309 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715309 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715309 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715309 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715309 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715309 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715310 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715310 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715310 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715310 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715310 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715310 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715310 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715310 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715310 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715310 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715310 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715310 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715310 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715310 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715310 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715310 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715310 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715310 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715310 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715310 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715310 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715310 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715310 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715310 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715310 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715310 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715310 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715310 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715310 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715310 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715310 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715310 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715310 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715310 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715310 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715310 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715310 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715310 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715310 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715310 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715310 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715310 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715310 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715310 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715310 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715311 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715311 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715311 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715311 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715311 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715311 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715311 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715311 | ERROR | dart.sync: Connection failed with code: InternalError
+1671715311 | ERROR | dart.sync: Connection failed with code: InternalError
+Register: epoch-dump-task logger
+
+Register: transcript logger
+
+Register: collector logger
+
+Register: local-tagionnet logger
+
+Register: trans_server logger
+
+Register: trans_response logger
+
+1671715448 | WARN  | transcript: Epoch throwable:core.exception.AssertError@/home/lokalbruger/bin/ldc2-1.29.0-linux-x86_64/bin/../import/std/concurrency.d(680): Assertion failure
+----------------
+??:? _d_assert [0x559399ba70e2]
+home/lokalbruger/bin/ldc2-1.29.0-linux-x86_64/bin/../import/std/concurrency.d:680 void std.concurrency.send!(immutable(tagion.dart.Recorder.RecordFactory.Recorder), immutable(tagion.utils.Fingerprint.Fingerprint)).send(std.concurrency.Tid, immutable(tagion.dart.Recorder.RecordFactory.Recorder), immutable(tagion.utils.Fingerprint.Fingerprint)) [0x559398e7ea2f]
+home/lokalbruger/work/mono_regression/tagion/src/lib-services/tagion/services/TranscriptService.d:121 void tagion.services.TranscriptService.transcriptServiceTask(immutable(char)[], immutable(char)[], immutable(char)[], immutable(char)[]).dumpRecorderBlock(immutable(tagion.dart.Recorder.RecordFactory.Recorder), immutable(tagion.utils.Fingerprint.Fingerprint)) [0x559398e8126b]
+home/lokalbruger/work/mono_regression/tagion/src/lib-services/tagion/services/TranscriptService.d:270 nothrow void tagion.services.TranscriptService.transcriptServiceTask(immutable(char)[], immutable(char)[], immutable(char)[], immutable(char)[]).receive_epoch(immutable(ubyte)[]) [0x559398e8260e]
+home/lokalbruger/bin/ldc2-1.29.0-linux-x86_64/bin/../import/std/concurrency.d:220 void std.concurrency.Message.map!(void delegate(immutable(ubyte)[]) nothrow).map(void delegate(immutable(ubyte)[]) nothrow) [0x559398f21a75]
+home/lokalbruger/bin/ldc2-1.29.0-linux-x86_64/bin/../import/std/concurrency.d:2159 bool std.concurrency.MessageBox.get!(void delegate(immutable(ubyte)[]) nothrow, void delegate(immutable(tagion.dart.Recorder.RecordFactory.Recorder)) pure nothrow @nogc @safe, void delegate(tagion.basic.Types.Control) nothrow @safe, void function(immutable(tagion.basic.TagionExceptions.TaskFailure)) nothrow @trusted*).get(scope void delegate(immutable(ubyte)[]) nothrow, scope void delegate(immutable(tagion.dart.Recorder.RecordFactory.Recorder)) pure nothrow @nogc @safe, scope void delegate(tagion.basic.Types.Control) nothrow @safe, scope void function(immutable(tagion.basic.TagionExceptions.TaskFailure)) nothrow @trusted*).onStandardMsg(ref std.concurrency.Message) [0x559398f21962]
+home/lokalbruger/bin/ldc2-1.29.0-linux-x86_64/bin/../import/std/concurrency.d:2243 bool std.concurrency.MessageBox.get!(void delegate(immutable(ubyte)[]) nothrow, void delegate(immutable(tagion.dart.Recorder.RecordFactory.Recorder)) pure nothrow @nogc @safe, void delegate(tagion.basic.Types.Control) nothrow @safe, void function(immutable(tagion.basic.TagionExceptions.TaskFailure)) nothrow @trusted*).get(scope void delegate(immutable(ubyte)[]) nothrow, scope void delegate(immutable(tagion.dart.Recorder.RecordFactory.Recorder)) pure nothrow @nogc @safe, scope void delegate(tagion.basic.Types.Control) nothrow @safe, scope void function(immutable(tagion.basic.TagionExceptions.TaskFailure)) nothrow @trusted*).scan(ref std.concurrency.List!(std.concurrency.Message).List) [0x559398f2205f]
+home/lokalbruger/bin/ldc2-1.29.0-linux-x86_64/bin/../import/std/concurrency.d:2320 bool std.concurrency.MessageBox.get!(void delegate(immutable(ubyte)[]) nothrow, void delegate(immutable(tagion.dart.Recorder.RecordFactory.Recorder)) pure nothrow @nogc @safe, void delegate(tagion.basic.Types.Control) nothrow @safe, void function(immutable(tagion.basic.TagionExceptions.TaskFailure)) nothrow @trusted*).get(scope void delegate(immutable(ubyte)[]) nothrow, scope void delegate(immutable(tagion.dart.Recorder.RecordFactory.Recorder)) pure nothrow @nogc @safe, scope void delegate(tagion.basic.Types.Control) nothrow @safe, scope void function(immutable(tagion.basic.TagionExceptions.TaskFailure)) nothrow @trusted*) [0x559398f217fd]
+home/lokalbruger/bin/ldc2-1.29.0-linux-x86_64/bin/../import/std/concurrency.d:750 void std.concurrency.receive!(void delegate(immutable(ubyte)[]) nothrow, void delegate(immutable(tagion.dart.Recorder.RecordFactory.Recorder)) pure nothrow @nogc @safe, void delegate(tagion.basic.Types.Control) nothrow @safe, void function(immutable(tagion.basic.TagionExceptions.TaskFailure)) nothrow @trusted*).receive(void delegate(immutable(ubyte)[]) nothrow, void delegate(immutable(tagion.dart.Recorder.RecordFactory.Recorder)) pure nothrow @nogc @safe, void delegate(tagion.basic.Types.Control) nothrow @safe, void function(immutable(tagion.basic.TagionExceptions.TaskFailure)) nothrow @trusted*) [0x559398e83510]
+home/lokalbruger/work/mono_regression/tagion/src/lib-services/tagion/services/TranscriptService.d:297 nothrow void tagion.services.TranscriptService.transcriptServiceTask(immutable(char)[], immutable(char)[], immutable(char)[], immutable(char)[]) [0x559398e80475]
+home/lokalbruger/bin/ldc2-1.29.0-linux-x86_64/bin/../import/std/concurrency.d:612 nothrow void std.concurrency._spawn!(void function(immutable(char)[], immutable(char)[], immutable(char)[], immutable(char)[]) nothrow*, immutable(char)[], immutable(char)[], immutable(char)[], immutable(char)[])._spawn(bool, void function(immutable(char)[], immutable(char)[], immutable(char)[], immutable(char)[]) nothrow*, immutable(char)[], immutable(char)[], immutable(char)[], immutable(char)[]).exec() [0x559398f1c62c]
+??:? thread_entryPoint [0x559399baba73]
+??:? [0x7fb61a37d608]
+??:? clone [0x7fb61a138132] 
