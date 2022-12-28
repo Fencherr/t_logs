@@ -1,0 +1,482 @@
+Logger task: logger
+1672237126 | INFO  | tagionwave: Register: tagionwave logger
+1672237126 | INFO  | heartbeat: Register: heartbeat logger
+1672237126 | INFO  | heartbeat: Start the heart beat
+1672237126 | INFO  | local-tagion: Register: local-tagion logger
+1672237126 | TRACE | local-tagion: owner_task_name local-tagion internal_task_name local-tagionnet
+1672237126 | TRACE | local-tagion: Hashgraph pubkey=02a129493216004b
+1672237126 | INFO  | discovery: Register: discovery logger
+1672237126 | INFO  | discovery-internal: Register: discovery-internal logger
+1672237127 | TRACE | discovery-internal: AddressBook.opIndexAssign 02a129493216004b:33
+1672237127 | INFO  | discovery-internal: File Discovery started
+1672237127 | TRACE | discovery-internal: update 1 02a129493216004b
+1672237128 | TRACE | discovery-internal: FILE NETWORK READY 4 < 11 (false) done = false
+1672237128 | TRACE | discovery-internal: update 2 02a129493216004b
+1672237129 | TRACE | discovery-internal: FILE NETWORK READY 5 < 11 (false) done = false
+1672237129 | TRACE | discovery-internal: update 3 02a129493216004b
+1672237130 | TRACE | discovery-internal: FILE NETWORK READY 5 < 11 (false) done = false
+1672237130 | TRACE | discovery-internal: update 4 02a129493216004b
+1672237130 | TRACE | discovery-internal: FILE NETWORK READY 5 < 11 (false) done = false
+1672237131 | TRACE | discovery-internal: update 5 02a129493216004b
+1672237147 | TRACE | discovery-internal: FILE NETWORK READY 11 < 11 (true) done = false
+1672237147 | TRACE | local-tagion: Network discovered ready
+1672237147 | TRACE | discovery-internal: FILE NETWORK READY 11 < 11 (true) done = false
+1672237147 | TRACE | local-tagion: Start sync addressbook.numOfActiveNodes : 11
+1672237147 | TRACE | local-tagion: Before sync ready addressbook.numOfActiveNodes : 11
+1672237147 | INFO  | dart.sync: Register: dart.sync logger
+1672237147 | INFO  | tagion.dart: Register: tagion.dart logger
+1672237147 | INFO  | local-tagion: Received ctrl: LIVE
+1672237147 | INFO  | dart.sync: DART file created with filename: /home/moonbase/tagion_network/data/dart-03.drt
+1672237147 | INFO  | dart.sync: DART initialized with angle: (0, 0)
+1672237147 | INFO  | dart.sync: DART bullseye: 
+1672237147 | INFO  | local-tagion: Received ctrl: LIVE
+1672237147 | TRACE | dart.sync: syncPool.start active 11 isReady true
+1672237147 | TRACE | dart.sync: P2pSynchronizer: Synchronization Completed! Sector: 0
+1672237147 | TRACE | dart.sync: syncPool.stop active 11 isReady true
+1672237147 | INFO  | dart.sync: Stop dart sync pool
+1672237147 | TRACE | dart.sync: Stop subscription
+1672237147 | INFO  | dart.sync: DART generated: bullseye: ee6342b7d00f3d76e5a7a68c4e73d8ec0a827778eb0dcc49fd186fc8ba9c98e1
+1672237147 | INFO  | local-tagion: Ready: true
+1672237147 | TRACE | local-tagion: Before startinf monitor and transaction addressbook.numOfActiveNodes : 11
+1672237147 | INFO  | transcript: Register: transcript logger
+1672237147 | TRACE | dart.sync: DSS: Received request from service: transcript 39
+1672237147 | TRACE | dart.sync: Sending response back to transcript
+1672237147 | INFO  | transcript: Start with bullseye: EE 63 42 B7 D0 0F 3D 76 E5 A7 A6 8C 4E 73 D8 EC 0A 82 77 78 EB 0D CC 49 FD 18 6F C8 BA 9C 98 E1
+1672237147 | INFO  | collector: Register: collector logger
+1672237147 | INFO  | collector: SockectThread port=10803 addresss=
+1672237147 | TRACE | local-tagion: Before DiscoveryRequestCommand.RequestTable  addressbook.numOfActiveNodes : 11
+1672237147 | TRACE | local-tagion: NETWORK READY 11 < 11 
+1672237147 | TRACE | local-tagion: Before Main loop addressbook.numOfActiveNodes : 11
+1672237147 | TRACE | discovery-internal: FILE NETWORK READY 11 < 11 (true) done = false
+1672237147 | INFO  | local-tagionnet: Register: local-tagionnet logger
+1672237147 | INFO  | local-tagionnet: Start listening local-tagionnet
+1672237147 | INFO  | trans_server: Register: trans_server logger
+1672237147 | INFO  | local-tagionnet: Client Connected key: 2
+1672237147 | INFO  | trans_response: Register: trans_response logger
+1672237147 | INFO  | local-tagionnet: Client Connected key: 3
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 0390b82619c52f7c
+1672237147 | TRACE | local-tagion: received_wave(RIPPLE <- NONE)
+1672237147 | INFO  | local-tagionnet: Client Connected key: 4
+1672237147 | TRACE | local-tagion: next <- NONE
+1672237147 | TRACE | local-tagionnet: Sending to channel: 0390b82619c52f7c
+1672237147 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1672237147 | TRACE | local-tagionnet: Sent to channel: 0390b82619c52f7c
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 0390b82619c52f7c
+1672237147 | TRACE | local-tagion: received_wave(RIPPLE <- NONE)
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 0390b82619c52f7c
+1672237147 | TRACE | local-tagion: next <- NONE
+1672237147 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1672237147 | TRACE | local-tagion: active_nodes=11
+1672237147 | TRACE | local-tagion: send_channel 0241affcd055a6a9
+1672237147 | TRACE | local-tagionnet: Sending to channel: 0390b82619c52f7c
+1672237147 | TRACE | local-tagion: received_wave(RIPPLE <- NONE)
+1672237147 | TRACE | local-tagion: next <- NONE
+1672237147 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1672237147 | TRACE | local-tagionnet: Sent to channel: 0390b82619c52f7c
+1672237147 | TRACE | local-tagionnet: Sending to channel: 0241affcd055a6a9
+1672237147 | TRACE | local-tagionnet: Sent to channel: 0241affcd055a6a9
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 0390b82619c52f7c
+1672237147 | TRACE | local-tagionnet: Sending to channel: 0390b82619c52f7c
+1672237147 | TRACE | local-tagionnet: Sent to channel: 0390b82619c52f7c
+1672237147 | INFO  | local-tagionnet: Client Connected key: 5
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 0390b82619c52f7c
+1672237147 | INFO  | local-tagionnet: Client Connected key: 6
+1672237147 | TRACE | local-tagion: received_wave(RIPPLE <- NONE)
+1672237147 | TRACE | local-tagion: next <- NONE
+1672237147 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1672237147 | TRACE | local-tagion: active_nodes=11
+1672237147 | TRACE | local-tagion: send_channel 02522ca5d48b79a1
+1672237147 | TRACE | local-tagionnet: Sending to channel: 0390b82619c52f7c
+1672237147 | TRACE | local-tagionnet: Sent to channel: 0390b82619c52f7c
+1672237147 | TRACE | local-tagionnet: Sending to channel: 02522ca5d48b79a1
+1672237147 | TRACE | local-tagionnet: Sent to channel: 02522ca5d48b79a1
+1672237147 | INFO  | local-tagionnet: Client Connected key: 7
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 031d26edffe0ef20
+1672237147 | INFO  | local-tagionnet: Client Connected key: 8
+1672237147 | INFO  | local-tagionnet: Client Connected key: 9
+1672237147 | TRACE | local-tagion: received_wave(RIPPLE <- NONE)
+1672237147 | TRACE | local-tagion: next <- NONE
+1672237147 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1672237147 | TRACE | local-tagion: active_nodes=11
+1672237147 | TRACE | local-tagion: send_channel 0241affcd055a6a9
+1672237147 | TRACE | local-tagion: received_wave(RIPPLE <- NONE)
+1672237147 | TRACE | local-tagionnet: Sending to channel: 0390b82619c52f7c
+1672237147 | TRACE | local-tagionnet: Sent to channel: 0390b82619c52f7c
+1672237147 | TRACE | local-tagionnet: Sending to channel: 0241affcd055a6a9
+1672237147 | TRACE | local-tagionnet: Sent to channel: 0241affcd055a6a9
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 02b2cba20f0338ac
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 02b2cba20f0338ac
+1672237147 | INFO  | local-tagionnet: Client Connected key: 11
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 02b2cba20f0338ac
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | TRACE | local-tagion: next <- NONE
+1672237147 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1672237147 | INFO  | local-tagionnet: *** received from: 02b2cba20f0338ac
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 02b2cba20f0338ac
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 02b2cba20f0338ac
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 02b2cba20f0338ac
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 02b2cba20f0338ac
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 02b2cba20f0338ac
+1672237147 | INFO  | local-tagionnet: Client Connected key: 13
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 02ec270cdadf4b5a
+1672237147 | TRACE | local-tagion: received_wave(RIPPLE <- NONE)
+1672237147 | TRACE | local-tagion: next <- NONE
+1672237147 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1672237147 | TRACE | local-tagion: active_nodes=11
+1672237147 | TRACE | local-tagion: send_channel 031d26edffe0ef20
+1672237147 | TRACE | local-tagion: received_wave(RIPPLE <- NONE)
+1672237147 | TRACE | local-tagion: next <- NONE
+1672237147 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1672237147 | TRACE | local-tagion: received_wave(RIPPLE <- NONE)
+1672237147 | TRACE | local-tagion: next <- NONE
+1672237147 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1672237147 | TRACE | local-tagion: received_wave(RIPPLE <- NONE)
+1672237147 | TRACE | local-tagion: next <- NONE
+1672237147 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1672237147 | TRACE | local-tagion: active_nodes=11
+1672237147 | TRACE | local-tagion: send_channel 0338c05c208f2584
+1672237147 | TRACE | local-tagion: received_wave(RIPPLE <- NONE)
+1672237147 | TRACE | local-tagion: next <- NONE
+1672237147 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1672237147 | TRACE | local-tagion: active_nodes=11
+1672237147 | TRACE | local-tagion: send_channel 0241affcd055a6a9
+1672237147 | TRACE | local-tagion: received_wave(RIPPLE <- NONE)
+1672237147 | TRACE | local-tagion: next <- NONE
+1672237147 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1672237147 | TRACE | local-tagion: active_nodes=11
+1672237147 | TRACE | local-tagion: send_channel 0390b82619c52f7c
+1672237147 | TRACE | local-tagion: received_wave(RIPPLE <- NONE)
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 02ec270cdadf4b5a
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 02ec270cdadf4b5a
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 02ec270cdadf4b5a
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 02ec270cdadf4b5a
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 02ec270cdadf4b5a
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 02ec270cdadf4b5a
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 02ec270cdadf4b5a
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 02ec270cdadf4b5a
+1672237147 | TRACE | local-tagion: next <- NONE
+1672237147 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1672237147 | TRACE | local-tagion: active_nodes=11
+1672237147 | TRACE | local-tagion: send_channel 02e4d7627c662cf7
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 02ec270cdadf4b5a
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 03153effb3abc9a3
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 03153effb3abc9a3
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 03153effb3abc9a3
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 0390b82619c52f7c
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 0390b82619c52f7c
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 0390b82619c52f7c
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 0390b82619c52f7c
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 02522ca5d48b79a1
+1672237147 | INFO  | local-tagionnet: Client Connected key: 12
+1672237147 | TRACE | local-tagionnet: Sending to channel: 031d26edffe0ef20
+1672237147 | TRACE | local-tagionnet: Sent to channel: 031d26edffe0ef20
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 0338c05c208f2584
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 031d26edffe0ef20
+1672237147 | INFO  | local-tagionnet: Client Connected key: 10
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 02522ca5d48b79a1
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 02522ca5d48b79a1
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 02522ca5d48b79a1
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 02522ca5d48b79a1
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 02522ca5d48b79a1
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 02522ca5d48b79a1
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 0295b8c19292f69f
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 0295b8c19292f69f
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 0295b8c19292f69f
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 0295b8c19292f69f
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 0295b8c19292f69f
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 0295b8c19292f69f
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 0295b8c19292f69f
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 0295b8c19292f69f
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 0295b8c19292f69f
+1672237147 | TRACE | local-tagion: received_wave(RIPPLE <- NONE)
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 0338c05c208f2584
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 0338c05c208f2584
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 0338c05c208f2584
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 0338c05c208f2584
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 0338c05c208f2584
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 0338c05c208f2584
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 0338c05c208f2584
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 0241affcd055a6a9
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 0241affcd055a6a9
+1672237147 | TRACE | local-tagionnet: Sending to channel: 02b2cba20f0338ac
+1672237147 | TRACE | local-tagionnet: Sent to channel: 02b2cba20f0338ac
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 0241affcd055a6a9
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 0241affcd055a6a9
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 0241affcd055a6a9
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 0241affcd055a6a9
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 0241affcd055a6a9
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 0241affcd055a6a9
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 031d26edffe0ef20
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 031d26edffe0ef20
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 031d26edffe0ef20
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 031d26edffe0ef20
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 031d26edffe0ef20
+1672237147 | TRACE | local-tagionnet: Sending to channel: 031d26edffe0ef20
+1672237147 | TRACE | local-tagionnet: Sent to channel: 031d26edffe0ef20
+1672237147 | TRACE | local-tagionnet: Sending to channel: 02b2cba20f0338ac
+1672237147 | TRACE | local-tagionnet: Sent to channel: 02b2cba20f0338ac
+1672237147 | TRACE | local-tagionnet: Sending to channel: 02b2cba20f0338ac
+1672237147 | TRACE | local-tagionnet: Sent to channel: 02b2cba20f0338ac
+1672237147 | TRACE | local-tagionnet: Sending to channel: 02b2cba20f0338ac
+1672237147 | TRACE | local-tagionnet: Sent to channel: 02b2cba20f0338ac
+1672237147 | TRACE | local-tagionnet: Sending to channel: 0338c05c208f2584
+1672237147 | TRACE | local-tagionnet: Sent to channel: 0338c05c208f2584
+1672237147 | TRACE | local-tagionnet: Sending to channel: 02b2cba20f0338ac
+1672237147 | TRACE | local-tagionnet: Sent to channel: 02b2cba20f0338ac
+1672237147 | TRACE | local-tagionnet: Sending to channel: 0241affcd055a6a9
+1672237147 | TRACE | local-tagionnet: Sent to channel: 0241affcd055a6a9
+1672237147 | TRACE | local-tagionnet: Sending to channel: 02b2cba20f0338ac
+1672237147 | TRACE | local-tagionnet: Sent to channel: 02b2cba20f0338ac
+1672237147 | TRACE | local-tagionnet: Sending to channel: 0390b82619c52f7c
+1672237147 | TRACE | local-tagionnet: Sent to channel: 0390b82619c52f7c
+1672237147 | TRACE | local-tagionnet: Sending to channel: 02b2cba20f0338ac
+1672237147 | TRACE | local-tagionnet: Sent to channel: 02b2cba20f0338ac
+1672237147 | TRACE | local-tagionnet: Sending to channel: 02e4d7627c662cf7
+1672237147 | TRACE | local-tagionnet: Sent to channel: 02e4d7627c662cf7
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 02e4d7627c662cf7
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 02e4d7627c662cf7
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 02e4d7627c662cf7
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 02e4d7627c662cf7
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 02e4d7627c662cf7
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 02e4d7627c662cf7
+1672237147 | INFO  | local-tagionnet: Client Connected key: 14
+1672237147 | TRACE | local-tagionnet: Sending to channel: 02b2cba20f0338ac
+1672237147 | TRACE | local-tagion: next <- NONE
+1672237147 | TRACE | local-tagionnet: Sent to channel: 02b2cba20f0338ac
+1672237147 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1672237147 | TRACE | local-tagion: active_nodes=11
+1672237147 | TRACE | local-tagion: send_channel 02e4d7627c662cf7
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 03153effb3abc9a3
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 031d26edffe0ef20
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 02e4d7627c662cf7
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 02e4d7627c662cf7
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 02e4d7627c662cf7
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 0338c05c208f2584
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 0295b8c19292f69f
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 031d26edffe0ef20
+1672237147 | TRACE | local-tagionnet: Sending to channel: 02e4d7627c662cf7
+1672237147 | TRACE | local-tagionnet: Sent to channel: 02e4d7627c662cf7
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 0295b8c19292f69f
+1672237147 | TRACE | local-tagion: received_wave(RIPPLE <- NONE)
+1672237147 | TRACE | local-tagion: next <- NONE
+1672237147 | TRACE | local-tagionnet: Sending to channel: 02b2cba20f0338ac
+1672237147 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1672237147 | TRACE | local-tagionnet: Sent to channel: 02b2cba20f0338ac
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 031d26edffe0ef20
+1672237147 | TRACE | local-tagion: received_wave(RIPPLE <- NONE)
+1672237147 | TRACE | local-tagion: next <- NONE
+1672237147 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1672237147 | TRACE | local-tagion: active_nodes=11
+1672237147 | TRACE | local-tagion: send_channel 02ec270cdadf4b5a
+1672237147 | TRACE | local-tagionnet: Sending to channel: 02ec270cdadf4b5a
+1672237147 | TRACE | local-tagionnet: Sent to channel: 02ec270cdadf4b5a
+1672237147 | TRACE | local-tagionnet: Sending to channel: 02ec270cdadf4b5a
+1672237147 | TRACE | local-tagionnet: Sent to channel: 02ec270cdadf4b5a
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 03153effb3abc9a3
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 03153effb3abc9a3
+1672237147 | TRACE | local-tagion: received_wave(RIPPLE <- NONE)
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 02522ca5d48b79a1
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 02ec270cdadf4b5a
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 02ec270cdadf4b5a
+1672237147 | TRACE | local-tagion: next <- NONE
+1672237147 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1672237147 | TRACE | local-tagionnet: Sending to channel: 02ec270cdadf4b5a
+1672237147 | TRACE | local-tagionnet: Sent to channel: 02ec270cdadf4b5a
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 0338c05c208f2584
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 0241affcd055a6a9
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 0241affcd055a6a9
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 0241affcd055a6a9
+1672237147 | TRACE | local-tagion: received_wave(RIPPLE <- NONE)
+1672237147 | TRACE | local-tagion: next <- NONE
+1672237147 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1672237147 | TRACE | local-tagion: active_nodes=11
+1672237147 | TRACE | local-tagion: send_channel 02b2cba20f0338ac
+1672237147 | TRACE | local-tagionnet: Sending to channel: 02ec270cdadf4b5a
+1672237147 | TRACE | local-tagionnet: Sent to channel: 02ec270cdadf4b5a
+1672237147 | TRACE | local-tagionnet: Sending to channel: 02b2cba20f0338ac
+1672237147 | TRACE | local-tagionnet: Sent to channel: 02b2cba20f0338ac
+1672237147 | TRACE | local-tagion: received_wave(RIPPLE <- NONE)
+1672237147 | TRACE | local-tagion: next <- NONE
+1672237147 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1672237147 | TRACE | local-tagionnet: Sending to channel: 02ec270cdadf4b5a
+1672237147 | TRACE | local-tagionnet: Sent to channel: 02ec270cdadf4b5a
+1672237147 | TRACE | local-tagion: received_wave(RIPPLE <- NONE)
+1672237147 | TRACE | local-tagion: next <- NONE
+1672237147 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1672237147 | TRACE | local-tagionnet: Sending to channel: 02ec270cdadf4b5a
+1672237147 | TRACE | local-tagionnet: Sent to channel: 02ec270cdadf4b5a
+1672237147 | TRACE | local-tagion: received_wave(RIPPLE <- NONE)
+1672237147 | TRACE | local-tagion: next <- NONE
+1672237147 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1672237147 | TRACE | local-tagionnet: Sending to channel: 02ec270cdadf4b5a
+1672237147 | TRACE | local-tagion: active_nodes=11
+1672237147 | TRACE | local-tagion: send_channel 0390b82619c52f7c
+1672237147 | TRACE | local-tagionnet: Sent to channel: 02ec270cdadf4b5a
+1672237147 | TRACE | local-tagionnet: Sending to channel: 0390b82619c52f7c
+1672237147 | TRACE | local-tagionnet: Sent to channel: 0390b82619c52f7c
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 0241affcd055a6a9
+1672237147 | TRACE | local-tagionnet: Data received
+1672237147 | INFO  | local-tagionnet: *** received from: 0338c05c208f2584
+1672237147 | TRACE | local-tagion: received_wave(RIPPLE <- NONE)
+1672237147 | TRACE | local-tagion: next <- NONE
+1672237147 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1672237147 | TRACE | local-tagion: received_wave(RIPPLE <- NONE)
+1672237147 | TRACE | local-tagion: next <- NONE
+1672237147 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1672237147 | TRACE | local-tagionnet: Sending to channel: 02ec270cdadf4b5a
+1672237147 | TRACE | local-tagionnet: Sent to channel: 02ec270cdadf4b5a
+1672237147 | TRACE | local-tagionnet: Sending to channel: 02ec270cdadf4b5a
+1672237147 | TRACE | local-tagionnet: Sent to channel: 02ec270cdadf4b5a
+1672237147 | TRACE | local-tagion: received_wave(RIPPLE <- NONE)
+1672237147 | TRACE | local-tagion: next <- NONE
+1672237147 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1672237147 | TRACE | local-tagionnet: Sending to channel: 02ec270cdadf4b5a
+1672237147 | TRACE | local-tagionnet: Sent to channel: 02ec270cdadf4b5a
+1672237147 | TRACE | local-tagion: received_wave(RIPPLE <- NONE)
+1672237147 | TRACE | local-tagion: next <- NONE
+1672237147 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1672237147 | TRACE | local-tagionnet: Sending to channel: 02ec270cdadf4b5a
+1672237147 | TRACE | local-tagionnet: Sent to channel: 02ec270cdadf4b5a
+1672237147 | TRACE | local-tagion: received_wave(RIPPLE <- NONE)
+1672237147 | TRACE | local-tagion: next <- NONE
+1672237147 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1672237147 | TRACE | local-tagionnet: Sending to channel: 03153effb3abc9a3
+1672237147 | TRACE | local-tagionnet: Sent to channel: 03153effb3abc9a3
+1672237147 | TRACE | local-tagion: received_wave(RIPPLE <- NONE)
+1672237147 | TRACE | local-tagion: next <- NONE
+1672237147 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1672237147 | TRACE | local-tagion: active_nodes=11
+1672237147 | TRACE | local-tagion: send_channel 031d26edffe0ef20
+1672237147 | TRACE | local-tagionnet: Sending to channel: 03153effb3abc9a3
+1672237147 | TRACE | local-tagionnet: Sent to channel: 03153effb3abc9a3
+1672237147 | TRACE | local-tagionnet: Sending to channel: 031d26edffe0ef20
+1672237147 | TRACE | local-tagionnet: Sent to channel: 031d26edffe0ef20
+1672237147 | TRACE | local-tagion: received_wave(RIPPLE <- NONE)
+1672237147 | TRACE | local-tagion: next <- NONE
+1672237147 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1672237147 | TRACE | local-tagion: active_nodes=11
+1672237147 | TRACE | local-tagion: send_channel 0295b8c19292f69f
+1672237147 | TRACE | local-tagion: received_wave(RIPPLE <- NONE)
+1672237147 | TRACE | local-tagion: next <- NONE
+1672237147 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1672237147 | TRACE | local-tagionnet: Sending to channel: 03153effb3abc9a3
+1672237147 | TRACE | local-tagionnet: Sent to channel: 03153effb3abc9a3
+1672237147 | TRACE | local-tagionnet: Sending to channel: 0295b8c19292f69f
+1672237147 | TRACE | local-tagionnet: Sent to channel: 0295b8c19292f69f
+1672237147 | TRACE | local-tagionnet: Sending to channel: 0390b82619c52f7c
+1672237147 | TRACE | local-tagionnet: Sent to channel: 0390b82619c52f7c
+1672237147 | TRACE | local-tagion: received_wave(RIPPLE <- NONE)
+1672237147 | TRACE | local-tagion: next <- NONE
+1672237147 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1672237147 | TRACE | local-tagionnet: Sending to channel: 0390b82619c52f7c
+1672237147 | TRACE | local-tagionnet: Sent to channel: 0390b82619c52f7c
+1672237147 | TRACE | local-tagion: received_wave(RIPPLE <- NONE)
+1672237147 | TRACE | local-tagion: next <- NONE
+1672237147 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1672237147 | TRACE | local-tagionnet: Sending to channel: 0390b82619c52f7c
+1672237147 | TRACE | local-tagionnet: Sent to channel: 0390b82619c52f7c
+1672237147 | TRACE | local-tagion: received_wave(RIPPLE <- NONE)
+1672237147 | TRACE | local-tagion: next <- NONE
+1672237147 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1672237147 | TRACE | local-tagion: active_nodes=11
+1672237147 | TRACE | local-tagionnet: Sending to channel: 0390b82619c52f7c
+1672237147 | TRACE | local-tagion: send_channel 03153effb3abc9a3
+1672237147 | TRACE | local-tagionnet: Sent to channel: 0390b82619c52f7c
+1672237147 | TRACE | local-tagionnet: Sending to channel: 03153effb3abc9a3
+1672237147 | TRACE | local-tagionnet: Sent to channel: 03153effb3abc9a3
+1672237147 | TRACE | local-tagion: received_wave(RIPPLE <- NONE)
