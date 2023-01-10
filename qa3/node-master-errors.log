@@ -1,0 +1,218 @@
+Waiting for logger
+Logger started
+Register: tagionwave logger
+
+Register: heartbeat logger
+
+Register: local-tagion logger
+
+Register: discovery logger
+
+Register: discovery-internal logger
+
+Register: tagion.dart logger
+
+Register: dart.sync logger
+
+Register: epoch-dump-task logger
+
+Register: transcript logger
+
+Register: collector logger
+
+Register: trans_server logger
+
+Register: trans_response logger
+
+1673362824 | WARN  | local-tagion: Sender not found
+1673362825 | WARN  | local-tagion: Sender not found
+1673362826 | WARN  | local-tagion: Sender not found
+1673362828 | WARN  | local-tagion: Sender not found
+1673362830 | WARN  | local-tagion: Sender not found
+1673362831 | WARN  | local-tagion: Sender not found
+1673362832 | WARN  | local-tagion: Sender not found
+1673362832 | WARN  | local-tagion: Sender not found
+1673362833 | WARN  | local-tagion: Sender not found
+1673362835 | WARN  | local-tagion: Sender not found
+1673362837 | WARN  | local-tagion: Sender not found
+1673362839 | WARN  | local-tagion: Sender not found
+1673362844 | WARN  | local-tagion: Sender not found
+1673362845 | WARN  | local-tagion: Sender not found
+1673362848 | WARN  | local-tagion: Sender not found
+1673362849 | WARN  | local-tagion: Sender not found
+1673362849 | WARN  | local-tagion: Sender not found
+1673362850 | WARN  | local-tagion: Sender not found
+1673362853 | WARN  | local-tagion: Sender not found
+1673362853 | WARN  | local-tagion: Sender not found
+1673362858 | WARN  | local-tagion: Sender not found
+1673362861 | WARN  | local-tagion: Sender not found
+1673362861 | WARN  | local-tagion: Sender not found
+1673362862 | WARN  | local-tagion: Sender not found
+1673362863 | WARN  | local-tagion: Sender not found
+1673362865 | WARN  | local-tagion: Sender not found
+1673362868 | WARN  | local-tagion: Sender not found
+1673362869 | WARN  | local-tagion: Sender not found
+1673362869 | WARN  | local-tagion: Sender not found
+1673362870 | WARN  | local-tagion: Sender not found
+1673362873 | WARN  | local-tagion: Sender not found
+1673362874 | WARN  | local-tagion: Sender not found
+1673362877 | WARN  | local-tagion: Sender not found
+1673362879 | WARN  | local-tagion: Sender not found
+1673362881 | WARN  | local-tagion: Sender not found
+1673362886 | WARN  | local-tagion: Sender not found
+1673362889 | WARN  | local-tagion: Sender not found
+1673362889 | WARN  | local-tagion: Sender not found
+1673362892 | WARN  | local-tagion: Sender not found
+1673362893 | WARN  | local-tagion: Sender not found
+1673362893 | WARN  | local-tagion: Sender not found
+1673362894 | WARN  | local-tagion: Sender not found
+1673362895 | WARN  | local-tagion: Sender not found
+1673362897 | WARN  | local-tagion: Sender not found
+1673362897 | WARN  | local-tagion: Sender not found
+1673362898 | WARN  | local-tagion: Sender not found
+1673362899 | WARN  | local-tagion: Sender not found
+1673362900 | WARN  | local-tagion: Sender not found
+1673362901 | WARN  | local-tagion: Sender not found
+1673362904 | WARN  | local-tagion: Sender not found
+1673362906 | WARN  | local-tagion: Sender not found
+1673362909 | WARN  | local-tagion: Sender not found
+1673362911 | WARN  | local-tagion: Sender not found
+1673362912 | WARN  | local-tagion: Sender not found
+1673362914 | WARN  | local-tagion: Sender not found
+1673362915 | WARN  | local-tagion: Sender not found
+1673362917 | WARN  | local-tagion: Sender not found
+1673362918 | WARN  | local-tagion: Sender not found
+1673362925 | WARN  | local-tagion: Sender not found
+1673362932 | WARN  | local-tagion: Sender not found
+1673362933 | WARN  | local-tagion: Sender not found
+1673362933 | WARN  | local-tagion: Sender not found
+1673362934 | WARN  | local-tagion: Sender not found
+1673362935 | WARN  | local-tagion: Sender not found
+1673362936 | WARN  | local-tagion: Sender not found
+1673362937 | WARN  | local-tagion: Sender not found
+1673362937 | WARN  | local-tagion: Sender not found
+1673362938 | WARN  | local-tagion: Sender not found
+1673362939 | WARN  | local-tagion: Sender not found
+1673362940 | WARN  | local-tagion: Sender not found
+1673362941 | WARN  | local-tagion: Sender not found
+1673362941 | WARN  | local-tagion: Sender not found
+1673362942 | WARN  | local-tagion: Sender not found
+1673362943 | WARN  | local-tagion: Sender not found
+1673362944 | WARN  | local-tagion: Sender not found
+1673362945 | WARN  | local-tagion: Sender not found
+1673362946 | WARN  | local-tagion: Sender not found
+1673362948 | WARN  | local-tagion: Sender not found
+1673362949 | WARN  | local-tagion: Sender not found
+1673362950 | WARN  | local-tagion: Sender not found
+1673362951 | WARN  | local-tagion: Sender not found
+1673362952 | WARN  | local-tagion: Sender not found
+1673362953 | WARN  | local-tagion: Sender not found
+1673362955 | WARN  | local-tagion: Sender not found
+1673362956 | WARN  | local-tagion: Sender not found
+1673362959 | WARN  | local-tagion: Sender not found
+1673362960 | WARN  | local-tagion: Sender not found
+1673362961 | WARN  | local-tagion: Sender not found
+1673362962 | WARN  | local-tagion: Sender not found
+1673362964 | WARN  | local-tagion: Sender not found
+1673362965 | WARN  | local-tagion: Sender not found
+1673362965 | WARN  | local-tagion: Sender not found
+1673362966 | WARN  | local-tagion: Sender not found
+1673362967 | WARN  | local-tagion: Sender not found
+1673362968 | WARN  | local-tagion: Sender not found
+1673362969 | WARN  | local-tagion: Sender not found
+1673362971 | WARN  | local-tagion: Sender not found
+1673362973 | WARN  | local-tagion: Sender not found
+1673362973 | WARN  | local-tagion: Sender not found
+1673362974 | WARN  | local-tagion: Sender not found
+1673362976 | WARN  | local-tagion: Sender not found
+1673362977 | WARN  | local-tagion: Sender not found
+1673362978 | WARN  | local-tagion: Sender not found
+1673362981 | WARN  | local-tagion: Sender not found
+1673362982 | WARN  | local-tagion: Sender not found
+1673362985 | WARN  | local-tagion: Sender not found
+1673362985 | WARN  | local-tagion: Sender not found
+1673362989 | WARN  | local-tagion: Sender not found
+1673362990 | WARN  | local-tagion: Sender not found
+1673362991 | WARN  | local-tagion: Sender not found
+1673362992 | WARN  | local-tagion: Sender not found
+1673362994 | WARN  | local-tagion: Sender not found
+1673362995 | WARN  | local-tagion: Sender not found
+1673362996 | WARN  | local-tagion: Sender not found
+1673362997 | WARN  | local-tagion: Sender not found
+1673362998 | WARN  | local-tagion: Sender not found
+1673362999 | WARN  | local-tagion: Sender not found
+1673363001 | WARN  | local-tagion: Sender not found
+1673363001 | WARN  | local-tagion: Sender not found
+1673363004 | WARN  | local-tagion: Sender not found
+1673363009 | WARN  | local-tagion: Sender not found
+1673363010 | WARN  | local-tagion: Sender not found
+1673363011 | WARN  | local-tagion: Sender not found
+1673363012 | WARN  | local-tagion: Sender not found
+1673363013 | WARN  | local-tagion: Sender not found
+1673363014 | WARN  | local-tagion: Sender not found
+1673363017 | WARN  | local-tagion: Sender not found
+1673363018 | WARN  | local-tagion: Sender not found
+1673363019 | WARN  | local-tagion: Sender not found
+1673363022 | WARN  | local-tagion: Sender not found
+1673363024 | WARN  | local-tagion: Sender not found
+1673363025 | WARN  | local-tagion: Sender not found
+1673363025 | WARN  | local-tagion: Sender not found
+1673363026 | WARN  | local-tagion: Sender not found
+1673363027 | WARN  | local-tagion: Sender not found
+1673363030 | WARN  | local-tagion: Sender not found
+1673363031 | WARN  | local-tagion: Sender not found
+1673363038 | WARN  | local-tagion: Sender not found
+1673363041 | WARN  | local-tagion: Sender not found
+1673363042 | WARN  | local-tagion: Sender not found
+1673363044 | WARN  | local-tagion: Sender not found
+1673363046 | WARN  | local-tagion: Sender not found
+1673363048 | WARN  | local-tagion: Sender not found
+1673363049 | WARN  | local-tagion: Sender not found
+1673363051 | WARN  | local-tagion: Sender not found
+1673363052 | WARN  | local-tagion: Sender not found
+1673363053 | WARN  | local-tagion: Sender not found
+1673363054 | WARN  | local-tagion: Sender not found
+1673363056 | WARN  | local-tagion: Sender not found
+1673363057 | WARN  | local-tagion: Sender not found
+1673363065 | WARN  | local-tagion: Sender not found
+1673363068 | WARN  | local-tagion: Sender not found
+1673363069 | WARN  | local-tagion: Sender not found
+1673363070 | WARN  | local-tagion: Sender not found
+1673363073 | WARN  | local-tagion: Sender not found
+1673363074 | WARN  | local-tagion: Sender not found
+1673363075 | WARN  | local-tagion: Sender not found
+1673363077 | WARN  | local-tagion: Sender not found
+1673363077 | WARN  | local-tagion: Sender not found
+1673363078 | WARN  | local-tagion: Sender not found
+1673363080 | WARN  | local-tagion: Sender not found
+1673363082 | WARN  | local-tagion: Sender not found
+1673363083 | WARN  | local-tagion: Sender not found
+1673363084 | WARN  | local-tagion: Sender not found
+1673363085 | WARN  | local-tagion: Sender not found
+1673363089 | WARN  | local-tagion: Sender not found
+1673363090 | WARN  | local-tagion: Sender not found
+1673363092 | WARN  | local-tagion: Sender not found
+1673363094 | WARN  | local-tagion: Sender not found
+1673363095 | WARN  | local-tagion: Sender not found
+1673363099 | WARN  | local-tagion: Sender not found
+1673363101 | WARN  | local-tagion: Sender not found
+1673363101 | WARN  | local-tagion: Sender not found
+1673363104 | WARN  | local-tagion: Sender not found
+1673363107 | WARN  | local-tagion: Sender not found
+1673363108 | WARN  | local-tagion: Sender not found
+1673363112 | WARN  | local-tagion: Sender not found
+1673363113 | WARN  | local-tagion: Sender not found
+1673363117 | WARN  | local-tagion: Sender not found
+1673363119 | WARN  | local-tagion: Sender not found
+1673363120 | WARN  | local-tagion: Sender not found
+1673363121 | WARN  | local-tagion: Sender not found
+1673363123 | WARN  | local-tagion: Sender not found
+1673363125 | WARN  | local-tagion: Sender not found
+1673363127 | WARN  | local-tagion: Sender not found
+1673363129 | WARN  | local-tagion: Sender not found
+1673363132 | WARN  | local-tagion: Sender not found
+1673363133 | WARN  | local-tagion: Sender not found
+1673363136 | WARN  | local-tagion: Sender not found
+1673363137 | WARN  | local-tagion: Sender not found
+1673363141 | WARN  | local-tagion: Sender not found
+1673363142 | WARN  | local-tagion: Sender not found

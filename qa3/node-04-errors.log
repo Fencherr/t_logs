@@ -1,0 +1,335 @@
+Waiting for logger
+Logger started
+Register: tagionwave logger
+
+Register: heartbeat logger
+
+Register: local-tagion logger
+
+Register: discovery logger
+
+Register: discovery-internal logger
+
+Register: tagion.dart logger
+
+Register: dart.sync logger
+
+1673362811 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362812 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362812 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362812 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362812 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362812 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362812 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362812 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362812 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362812 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362812 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362812 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362812 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362812 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362812 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362813 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362813 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362813 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362813 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362813 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362813 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362813 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362813 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362813 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362813 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362813 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362813 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362813 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362813 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362813 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362813 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362813 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362813 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362813 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362813 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362813 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362813 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362813 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362813 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362813 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362813 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362813 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362813 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362813 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362813 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362813 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362813 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362813 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362813 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362813 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362813 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362813 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362814 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362814 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362814 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362814 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362814 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362814 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362814 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362814 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362814 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362814 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362814 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362814 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362814 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362814 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362814 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362814 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362814 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362814 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362814 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362814 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362814 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362814 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362814 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362814 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362814 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362814 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362814 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362814 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362814 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362814 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362814 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362814 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362814 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362814 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362814 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362814 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362814 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362814 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362814 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362814 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362814 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362814 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362815 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362815 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362815 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362815 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362815 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362815 | ERROR | dart.sync: Connection failed with code: InternalError
+1673362815 | ERROR | dart.sync: Connection failed with code: InternalError
+Register: epoch-dump-task logger
+
+Register: transcript logger
+
+Register: collector logger
+
+Register: trans_server logger
+
+Register: trans_response logger
+
+1673362817 | WARN  | local-tagion: Sender not found
+1673362819 | WARN  | local-tagion: Sender not found
+1673362820 | WARN  | local-tagion: Sender not found
+1673362821 | WARN  | local-tagion: Sender not found
+1673362824 | WARN  | local-tagion: Sender not found
+1673362825 | WARN  | local-tagion: Sender not found
+1673362825 | WARN  | local-tagion: Sender not found
+1673362826 | WARN  | local-tagion: Sender not found
+1673362827 | WARN  | local-tagion: Sender not found
+1673362829 | WARN  | local-tagion: Sender not found
+1673362830 | WARN  | local-tagion: Sender not found
+1673362833 | WARN  | local-tagion: Sender not found
+1673362837 | WARN  | local-tagion: Sender not found
+1673362838 | WARN  | local-tagion: Sender not found
+1673362841 | WARN  | local-tagion: Sender not found
+1673362842 | WARN  | local-tagion: Sender not found
+1673362843 | WARN  | local-tagion: Sender not found
+1673362844 | WARN  | local-tagion: Sender not found
+1673362846 | WARN  | local-tagion: Sender not found
+1673362847 | WARN  | local-tagion: Sender not found
+1673362852 | WARN  | local-tagion: Sender not found
+1673362854 | WARN  | local-tagion: Sender not found
+1673362855 | WARN  | local-tagion: Sender not found
+1673362856 | WARN  | local-tagion: Sender not found
+1673362857 | WARN  | local-tagion: Sender not found
+1673362859 | WARN  | local-tagion: Sender not found
+1673362862 | WARN  | local-tagion: Sender not found
+1673362862 | WARN  | local-tagion: Sender not found
+1673362863 | WARN  | local-tagion: Sender not found
+1673362864 | WARN  | local-tagion: Sender not found
+1673362867 | WARN  | local-tagion: Sender not found
+1673362868 | WARN  | local-tagion: Sender not found
+1673362870 | WARN  | local-tagion: Sender not found
+1673362873 | WARN  | local-tagion: Sender not found
+1673362875 | WARN  | local-tagion: Sender not found
+1673362880 | WARN  | local-tagion: Sender not found
+1673362882 | WARN  | local-tagion: Sender not found
+1673362883 | WARN  | local-tagion: Sender not found
+1673362886 | WARN  | local-tagion: Sender not found
+1673362886 | WARN  | local-tagion: Sender not found
+1673362887 | WARN  | local-tagion: Sender not found
+1673362888 | WARN  | local-tagion: Sender not found
+1673362889 | WARN  | local-tagion: Sender not found
+1673362890 | WARN  | local-tagion: Sender not found
+1673362891 | WARN  | local-tagion: Sender not found
+1673362892 | WARN  | local-tagion: Sender not found
+1673362893 | WARN  | local-tagion: Sender not found
+1673362894 | WARN  | local-tagion: Sender not found
+1673362895 | WARN  | local-tagion: Sender not found
+1673362898 | WARN  | local-tagion: Sender not found
+1673362900 | WARN  | local-tagion: Sender not found
+1673362903 | WARN  | local-tagion: Sender not found
+1673362905 | WARN  | local-tagion: Sender not found
+1673362906 | WARN  | local-tagion: Sender not found
+1673362908 | WARN  | local-tagion: Sender not found
+1673362909 | WARN  | local-tagion: Sender not found
+1673362910 | WARN  | local-tagion: Sender not found
+1673362912 | WARN  | local-tagion: Sender not found
+1673362918 | WARN  | local-tagion: Sender not found
+1673362926 | WARN  | local-tagion: Sender not found
+1673362926 | WARN  | local-tagion: Sender not found
+1673362927 | WARN  | local-tagion: Sender not found
+1673362928 | WARN  | local-tagion: Sender not found
+1673362929 | WARN  | local-tagion: Sender not found
+1673362930 | WARN  | local-tagion: Sender not found
+1673362930 | WARN  | local-tagion: Sender not found
+1673362931 | WARN  | local-tagion: Sender not found
+1673362932 | WARN  | local-tagion: Sender not found
+1673362933 | WARN  | local-tagion: Sender not found
+1673362934 | WARN  | local-tagion: Sender not found
+1673362934 | WARN  | local-tagion: Sender not found
+1673362935 | WARN  | local-tagion: Sender not found
+1673362936 | WARN  | local-tagion: Sender not found
+1673362937 | WARN  | local-tagion: Sender not found
+1673362938 | WARN  | local-tagion: Sender not found
+1673362939 | WARN  | local-tagion: Sender not found
+1673362940 | WARN  | local-tagion: Sender not found
+1673362942 | WARN  | local-tagion: Sender not found
+1673362942 | WARN  | local-tagion: Sender not found
+1673362944 | WARN  | local-tagion: Sender not found
+1673362945 | WARN  | local-tagion: Sender not found
+1673362946 | WARN  | local-tagion: Sender not found
+1673362946 | WARN  | local-tagion: Sender not found
+1673362949 | WARN  | local-tagion: Sender not found
+1673362950 | WARN  | local-tagion: Sender not found
+1673362953 | WARN  | local-tagion: Sender not found
+1673362954 | WARN  | local-tagion: Sender not found
+1673362954 | WARN  | local-tagion: Sender not found
+1673362956 | WARN  | local-tagion: Sender not found
+1673362958 | WARN  | local-tagion: Sender not found
+1673362958 | WARN  | local-tagion: Sender not found
+1673362959 | WARN  | local-tagion: Sender not found
+1673362960 | WARN  | local-tagion: Sender not found
+1673362961 | WARN  | local-tagion: Sender not found
+1673362962 | WARN  | local-tagion: Sender not found
+1673362963 | WARN  | local-tagion: Sender not found
+1673362965 | WARN  | local-tagion: Sender not found
+1673362966 | WARN  | local-tagion: Sender not found
+1673362967 | WARN  | local-tagion: Sender not found
+1673362968 | WARN  | local-tagion: Sender not found
+1673362970 | WARN  | local-tagion: Sender not found
+1673362971 | WARN  | local-tagion: Sender not found
+1673362972 | WARN  | local-tagion: Sender not found
+1673362975 | WARN  | local-tagion: Sender not found
+1673362976 | WARN  | local-tagion: Sender not found
+1673362978 | WARN  | local-tagion: Sender not found
+1673362979 | WARN  | local-tagion: Sender not found
+1673362983 | WARN  | local-tagion: Sender not found
+1673362984 | WARN  | local-tagion: Sender not found
+1673362985 | WARN  | local-tagion: Sender not found
+1673362986 | WARN  | local-tagion: Sender not found
+1673362988 | WARN  | local-tagion: Sender not found
+1673362989 | WARN  | local-tagion: Sender not found
+1673362990 | WARN  | local-tagion: Sender not found
+1673362990 | WARN  | local-tagion: Sender not found
+1673362992 | WARN  | local-tagion: Sender not found
+1673362993 | WARN  | local-tagion: Sender not found
+1673362994 | WARN  | local-tagion: Sender not found
+1673362995 | WARN  | local-tagion: Sender not found
+1673362998 | WARN  | local-tagion: Sender not found
+1673363003 | WARN  | local-tagion: Sender not found
+1673363004 | WARN  | local-tagion: Sender not found
+1673363005 | WARN  | local-tagion: Sender not found
+1673363006 | WARN  | local-tagion: Sender not found
+1673363006 | WARN  | local-tagion: Sender not found
+1673363008 | WARN  | local-tagion: Sender not found
+1673363010 | WARN  | local-tagion: Sender not found
+1673363012 | WARN  | local-tagion: Sender not found
+1673363013 | WARN  | local-tagion: Sender not found
+1673363016 | WARN  | local-tagion: Sender not found
+1673363018 | WARN  | local-tagion: Sender not found
+1673363018 | WARN  | local-tagion: Sender not found
+1673363019 | WARN  | local-tagion: Sender not found
+1673363020 | WARN  | local-tagion: Sender not found
+1673363021 | WARN  | local-tagion: Sender not found
+1673363024 | WARN  | local-tagion: Sender not found
+1673363025 | WARN  | local-tagion: Sender not found
+1673363032 | WARN  | local-tagion: Sender not found
+1673363034 | WARN  | local-tagion: Sender not found
+1673363036 | WARN  | local-tagion: Sender not found
+1673363038 | WARN  | local-tagion: Sender not found
+1673363040 | WARN  | local-tagion: Sender not found
+1673363042 | WARN  | local-tagion: Sender not found
+1673363043 | WARN  | local-tagion: Sender not found
+1673363045 | WARN  | local-tagion: Sender not found
+1673363046 | WARN  | local-tagion: Sender not found
+1673363046 | WARN  | local-tagion: Sender not found
+1673363048 | WARN  | local-tagion: Sender not found
+1673363050 | WARN  | local-tagion: Sender not found
+1673363051 | WARN  | local-tagion: Sender not found
+1673363059 | WARN  | local-tagion: Sender not found
+1673363062 | WARN  | local-tagion: Sender not found
+1673363063 | WARN  | local-tagion: Sender not found
+1673363064 | WARN  | local-tagion: Sender not found
+1673363067 | WARN  | local-tagion: Sender not found
+1673363068 | WARN  | local-tagion: Sender not found
+1673363069 | WARN  | local-tagion: Sender not found
+1673363070 | WARN  | local-tagion: Sender not found
+1673363071 | WARN  | local-tagion: Sender not found
+1673363072 | WARN  | local-tagion: Sender not found
+1673363074 | WARN  | local-tagion: Sender not found
+1673363076 | WARN  | local-tagion: Sender not found
+1673363077 | WARN  | local-tagion: Sender not found
+1673363078 | WARN  | local-tagion: Sender not found
+1673363079 | WARN  | local-tagion: Sender not found
+1673363082 | WARN  | local-tagion: Sender not found
+1673363084 | WARN  | local-tagion: Sender not found
+1673363086 | WARN  | local-tagion: Sender not found
+1673363088 | WARN  | local-tagion: Sender not found
+1673363089 | WARN  | local-tagion: Sender not found
+1673363093 | WARN  | local-tagion: Sender not found
+1673363094 | WARN  | local-tagion: Sender not found
+1673363095 | WARN  | local-tagion: Sender not found
+1673363098 | WARN  | local-tagion: Sender not found
+1673363101 | WARN  | local-tagion: Sender not found
+1673363102 | WARN  | local-tagion: Sender not found
+1673363106 | WARN  | local-tagion: Sender not found
+1673363107 | WARN  | local-tagion: Sender not found
+1673363111 | WARN  | local-tagion: Sender not found
+1673363113 | WARN  | local-tagion: Sender not found
+1673363114 | WARN  | local-tagion: Sender not found
+1673363115 | WARN  | local-tagion: Sender not found
+1673363117 | WARN  | local-tagion: Sender not found
+1673363118 | WARN  | local-tagion: Sender not found
+1673363121 | WARN  | local-tagion: Sender not found
+1673363123 | WARN  | local-tagion: Sender not found
+1673363126 | WARN  | local-tagion: Sender not found
+1673363126 | WARN  | local-tagion: Sender not found
+1673363130 | WARN  | local-tagion: Sender not found
+1673363131 | WARN  | local-tagion: Sender not found
+1673363135 | WARN  | local-tagion: Sender not found
+1673363136 | WARN  | local-tagion: Sender not found
+1673363138 | WARN  | local-tagion: Sender not found
+1673363140 | WARN  | local-tagion: Sender not found
+1673363141 | WARN  | local-tagion: Sender not found
+1673363143 | WARN  | local-tagion: Sender not found
+1673363144 | WARN  | local-tagion: Sender not found
+1673363145 | WARN  | local-tagion: Sender not found
+1673363146 | WARN  | local-tagion: Sender not found
+1673363147 | WARN  | local-tagion: Sender not found
+1673363150 | WARN  | local-tagion: Sender not found
+1673363150 | WARN  | local-tagion: Sender not found
+1673363151 | WARN  | local-tagion: Sender not found
+1673363154 | WARN  | local-tagion: Sender not found
+1673363155 | WARN  | local-tagion: Sender not found
+1673363156 | WARN  | local-tagion: Sender not found
+1673363158 | WARN  | local-tagion: Sender not found
+1673363159 | WARN  | local-tagion: Sender not found
