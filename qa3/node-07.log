@@ -1244,3 +1244,913 @@ Logger task: logger
 1673363139 | TRACE | local-tagion: active_nodes=11
 1673363139 | TRACE | local-tagion: send_channel 03153effb3abc9a3
 1673363139 | WARN  | local-tagion: Sender not found
+1673363140 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363140 | TRACE | local-tagion: active_nodes=11
+1673363140 | TRACE | local-tagion: send_channel 02a129493216004b
+1673363140 | WARN  | local-tagion: Sender not found
+1673363141 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363142 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363143 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363143 | TRACE | local-tagion: active_nodes=11
+1673363143 | TRACE | local-tagion: send_channel 02e4d7627c662cf7
+1673363143 | WARN  | local-tagion: Sender not found
+1673363143 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363144 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363144 | TRACE | local-tagion: active_nodes=11
+1673363144 | TRACE | local-tagion: send_channel 02ec270cdadf4b5a
+1673363144 | WARN  | local-tagion: Sender not found
+1673363145 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363145 | TRACE | local-tagion: active_nodes=11
+1673363145 | TRACE | local-tagion: send_channel 02ec270cdadf4b5a
+1673363145 | WARN  | local-tagion: Sender not found
+1673363146 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363147 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363147 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363147 | TRACE | local-tagion: active_nodes=11
+1673363147 | TRACE | local-tagion: send_channel 02522ca5d48b79a1
+1673363147 | WARN  | local-tagion: Sender not found
+1673363148 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363148 | TRACE | local-tagion: active_nodes=11
+1673363148 | TRACE | local-tagion: send_channel 0241affcd055a6a9
+1673363148 | WARN  | local-tagion: Sender not found
+1673363149 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363149 | TRACE | local-tagion: active_nodes=11
+1673363149 | TRACE | local-tagion: send_channel 03153effb3abc9a3
+1673363149 | WARN  | local-tagion: Sender not found
+1673363150 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363151 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363151 | TRACE | local-tagion: active_nodes=11
+1673363151 | TRACE | local-tagion: send_channel 02a129493216004b
+1673363151 | WARN  | local-tagion: Sender not found
+1673363151 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363151 | TRACE | local-tagion: active_nodes=11
+1673363151 | TRACE | local-tagion: send_channel 03153effb3abc9a3
+1673363151 | WARN  | local-tagion: Sender not found
+1673363152 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363153 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363154 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363154 | TRACE | local-tagion: active_nodes=11
+1673363154 | TRACE | local-tagion: send_channel 03153effb3abc9a3
+1673363154 | WARN  | local-tagion: Sender not found
+1673363155 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363155 | TRACE | local-tagion: active_nodes=11
+1673363155 | TRACE | local-tagion: send_channel 02b2cba20f0338ac
+1673363155 | WARN  | local-tagion: Sender not found
+1673363155 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363155 | TRACE | local-tagion: active_nodes=11
+1673363155 | TRACE | local-tagion: send_channel 02ec270cdadf4b5a
+1673363155 | WARN  | local-tagion: Sender not found
+1673363156 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363157 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363158 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363159 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363159 | TRACE | local-tagion: active_nodes=11
+1673363159 | TRACE | local-tagion: send_channel 02ec270cdadf4b5a
+1673363159 | WARN  | local-tagion: Sender not found
+1673363159 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363159 | TRACE | local-tagion: active_nodes=11
+1673363159 | TRACE | local-tagion: send_channel 0241affcd055a6a9
+1673363159 | WARN  | local-tagion: Sender not found
+1673363160 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363160 | TRACE | local-tagion: active_nodes=11
+1673363160 | TRACE | local-tagion: send_channel 02a129493216004b
+1673363160 | WARN  | local-tagion: Sender not found
+1673363161 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363162 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363162 | TRACE | local-tagion: active_nodes=11
+1673363162 | TRACE | local-tagion: send_channel 0241affcd055a6a9
+1673363162 | WARN  | local-tagion: Sender not found
+1673363163 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363163 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363163 | TRACE | local-tagion: active_nodes=11
+1673363163 | TRACE | local-tagion: send_channel 02b2cba20f0338ac
+1673363163 | WARN  | local-tagion: Sender not found
+1673363164 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363164 | TRACE | local-tagion: active_nodes=11
+1673363164 | TRACE | local-tagion: send_channel 03153effb3abc9a3
+1673363164 | WARN  | local-tagion: Sender not found
+1673363165 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363166 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363167 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363167 | TRACE | local-tagion: active_nodes=11
+1673363167 | TRACE | local-tagion: send_channel 0241affcd055a6a9
+1673363167 | WARN  | local-tagion: Sender not found
+1673363167 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363168 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363168 | TRACE | local-tagion: active_nodes=11
+1673363168 | TRACE | local-tagion: send_channel 02522ca5d48b79a1
+1673363168 | WARN  | local-tagion: Sender not found
+1673363169 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363170 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363171 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363171 | TRACE | local-tagion: active_nodes=11
+1673363171 | TRACE | local-tagion: send_channel 0390b82619c52f7c
+1673363171 | WARN  | local-tagion: Sender not found
+1673363171 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363171 | TRACE | local-tagion: active_nodes=11
+1673363171 | TRACE | local-tagion: send_channel 031d26edffe0ef20
+1673363171 | WARN  | local-tagion: Sender not found
+1673363172 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363173 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363174 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363174 | TRACE | local-tagion: active_nodes=11
+1673363174 | TRACE | local-tagion: send_channel 0390b82619c52f7c
+1673363174 | WARN  | local-tagion: Sender not found
+1673363175 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363175 | TRACE | local-tagion: active_nodes=11
+1673363175 | TRACE | local-tagion: send_channel 02a129493216004b
+1673363175 | WARN  | local-tagion: Sender not found
+1673363175 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363176 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363176 | TRACE | local-tagion: active_nodes=11
+1673363176 | TRACE | local-tagion: send_channel 02ec270cdadf4b5a
+1673363176 | WARN  | local-tagion: Sender not found
+1673363177 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363178 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363178 | TRACE | local-tagion: active_nodes=11
+1673363178 | TRACE | local-tagion: send_channel 02e4d7627c662cf7
+1673363178 | WARN  | local-tagion: Sender not found
+1673363179 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363179 | TRACE | local-tagion: active_nodes=11
+1673363179 | TRACE | local-tagion: send_channel 02ec270cdadf4b5a
+1673363179 | WARN  | local-tagion: Sender not found
+1673363179 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363179 | TRACE | local-tagion: active_nodes=11
+1673363179 | TRACE | local-tagion: send_channel 02a129493216004b
+1673363179 | WARN  | local-tagion: Sender not found
+1673363180 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363181 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363181 | TRACE | local-tagion: active_nodes=11
+1673363181 | TRACE | local-tagion: send_channel 02ec270cdadf4b5a
+1673363181 | WARN  | local-tagion: Sender not found
+1673363182 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363183 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363183 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363184 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363185 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363185 | TRACE | local-tagion: active_nodes=11
+1673363185 | TRACE | local-tagion: send_channel 02a129493216004b
+1673363185 | WARN  | local-tagion: Sender not found
+1673363186 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363187 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363187 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363187 | TRACE | local-tagion: active_nodes=11
+1673363187 | TRACE | local-tagion: send_channel 0241affcd055a6a9
+1673363187 | WARN  | local-tagion: Sender not found
+1673363188 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363188 | TRACE | local-tagion: active_nodes=11
+1673363188 | TRACE | local-tagion: send_channel 02e4d7627c662cf7
+1673363188 | WARN  | local-tagion: Sender not found
+1673363189 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363189 | TRACE | local-tagion: active_nodes=11
+1673363189 | TRACE | local-tagion: send_channel 0390b82619c52f7c
+1673363189 | WARN  | local-tagion: Sender not found
+1673363190 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363191 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363191 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363192 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363192 | TRACE | local-tagion: active_nodes=11
+1673363192 | TRACE | local-tagion: send_channel 02522ca5d48b79a1
+1673363192 | WARN  | local-tagion: Sender not found
+1673363193 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363193 | TRACE | local-tagion: active_nodes=11
+1673363193 | TRACE | local-tagion: send_channel 031d26edffe0ef20
+1673363193 | WARN  | local-tagion: Sender not found
+1673363194 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363194 | TRACE | local-tagion: active_nodes=11
+1673363194 | TRACE | local-tagion: send_channel 031d26edffe0ef20
+1673363194 | WARN  | local-tagion: Sender not found
+1673363195 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363195 | TRACE | local-tagion: active_nodes=11
+1673363195 | TRACE | local-tagion: send_channel 031d26edffe0ef20
+1673363195 | WARN  | local-tagion: Sender not found
+1673363195 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363196 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363196 | TRACE | local-tagion: active_nodes=11
+1673363196 | TRACE | local-tagion: send_channel 02e4d7627c662cf7
+1673363196 | WARN  | local-tagion: Sender not found
+1673363197 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363198 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363199 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363199 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363200 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363200 | TRACE | local-tagion: active_nodes=11
+1673363200 | TRACE | local-tagion: send_channel 02a129493216004b
+1673363200 | WARN  | local-tagion: Sender not found
+1673363201 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363202 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363203 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363203 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363203 | TRACE | local-tagion: active_nodes=11
+1673363203 | TRACE | local-tagion: send_channel 031d26edffe0ef20
+1673363203 | WARN  | local-tagion: Sender not found
+1673363204 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363205 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363206 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363206 | TRACE | local-tagion: active_nodes=11
+1673363206 | TRACE | local-tagion: send_channel 02522ca5d48b79a1
+1673363206 | WARN  | local-tagion: Sender not found
+1673363207 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363207 | TRACE | local-tagion: active_nodes=11
+1673363207 | TRACE | local-tagion: send_channel 03153effb3abc9a3
+1673363207 | WARN  | local-tagion: Sender not found
+1673363207 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363208 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363209 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363210 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363211 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363211 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363212 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363213 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363214 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363214 | TRACE | local-tagion: active_nodes=11
+1673363214 | TRACE | local-tagion: send_channel 0241affcd055a6a9
+1673363214 | WARN  | local-tagion: Sender not found
+1673363215 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363215 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363215 | TRACE | local-tagion: active_nodes=11
+1673363215 | TRACE | local-tagion: send_channel 0338c05c208f2584
+1673363215 | WARN  | local-tagion: Sender not found
+1673363216 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363216 | TRACE | local-tagion: active_nodes=11
+1673363216 | TRACE | local-tagion: send_channel 02ec270cdadf4b5a
+1673363216 | WARN  | local-tagion: Sender not found
+1673363217 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363218 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363218 | TRACE | local-tagion: active_nodes=11
+1673363218 | TRACE | local-tagion: send_channel 02a129493216004b
+1673363218 | WARN  | local-tagion: Sender not found
+1673363219 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363219 | TRACE | local-tagion: active_nodes=11
+1673363219 | TRACE | local-tagion: send_channel 02522ca5d48b79a1
+1673363219 | WARN  | local-tagion: Sender not found
+1673363219 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363219 | TRACE | local-tagion: active_nodes=11
+1673363219 | TRACE | local-tagion: send_channel 0338c05c208f2584
+1673363219 | WARN  | local-tagion: Sender not found
+1673363220 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363220 | TRACE | local-tagion: active_nodes=11
+1673363220 | TRACE | local-tagion: send_channel 02b2cba20f0338ac
+1673363220 | WARN  | local-tagion: Sender not found
+1673363221 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363221 | TRACE | local-tagion: active_nodes=11
+1673363221 | TRACE | local-tagion: send_channel 0241affcd055a6a9
+1673363221 | WARN  | local-tagion: Sender not found
+1673363222 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363223 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363223 | TRACE | local-tagion: active_nodes=11
+1673363223 | TRACE | local-tagion: send_channel 02522ca5d48b79a1
+1673363223 | WARN  | local-tagion: Sender not found
+1673363223 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363223 | TRACE | local-tagion: active_nodes=11
+1673363223 | TRACE | local-tagion: send_channel 02e4d7627c662cf7
+1673363223 | WARN  | local-tagion: Sender not found
+1673363224 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363224 | TRACE | local-tagion: active_nodes=11
+1673363224 | TRACE | local-tagion: send_channel 02a129493216004b
+1673363224 | WARN  | local-tagion: Sender not found
+1673363225 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363226 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363227 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363227 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363227 | TRACE | local-tagion: active_nodes=11
+1673363227 | TRACE | local-tagion: send_channel 02ec270cdadf4b5a
+1673363227 | WARN  | local-tagion: Sender not found
+1673363228 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363229 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363230 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363231 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363231 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363232 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363233 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363234 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363235 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363235 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363235 | TRACE | local-tagion: active_nodes=11
+1673363235 | TRACE | local-tagion: send_channel 03153effb3abc9a3
+1673363235 | WARN  | local-tagion: Sender not found
+1673363236 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363236 | TRACE | local-tagion: active_nodes=11
+1673363236 | TRACE | local-tagion: send_channel 02e4d7627c662cf7
+1673363236 | WARN  | local-tagion: Sender not found
+1673363237 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363237 | TRACE | local-tagion: active_nodes=11
+1673363237 | TRACE | local-tagion: send_channel 0338c05c208f2584
+1673363237 | WARN  | local-tagion: Sender not found
+1673363238 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363239 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363239 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363239 | TRACE | local-tagion: active_nodes=11
+1673363239 | TRACE | local-tagion: send_channel 02522ca5d48b79a1
+1673363239 | WARN  | local-tagion: Sender not found
+1673363240 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363241 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363241 | TRACE | local-tagion: active_nodes=11
+1673363241 | TRACE | local-tagion: send_channel 0390b82619c52f7c
+1673363241 | WARN  | local-tagion: Sender not found
+1673363242 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363243 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363243 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363244 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363245 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363246 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363247 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363247 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363248 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363249 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363250 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363251 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363251 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363252 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363253 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363254 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363254 | TRACE | local-tagion: active_nodes=11
+1673363254 | TRACE | local-tagion: send_channel 02e4d7627c662cf7
+1673363254 | WARN  | local-tagion: Sender not found
+1673363255 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363255 | TRACE | local-tagion: active_nodes=11
+1673363255 | TRACE | local-tagion: send_channel 02e4d7627c662cf7
+1673363255 | WARN  | local-tagion: Sender not found
+1673363255 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363255 | TRACE | local-tagion: active_nodes=11
+1673363255 | TRACE | local-tagion: send_channel 02b2cba20f0338ac
+1673363255 | WARN  | local-tagion: Sender not found
+1673363256 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363257 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363258 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363258 | TRACE | local-tagion: active_nodes=11
+1673363258 | TRACE | local-tagion: send_channel 0390b82619c52f7c
+1673363258 | WARN  | local-tagion: Sender not found
+1673363259 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363259 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363259 | TRACE | local-tagion: active_nodes=11
+1673363259 | TRACE | local-tagion: send_channel 03153effb3abc9a3
+1673363259 | WARN  | local-tagion: Sender not found
+1673363260 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363260 | TRACE | local-tagion: active_nodes=11
+1673363260 | TRACE | local-tagion: send_channel 02ec270cdadf4b5a
+1673363260 | WARN  | local-tagion: Sender not found
+1673363261 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363262 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363263 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363263 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363263 | TRACE | local-tagion: active_nodes=11
+1673363263 | TRACE | local-tagion: send_channel 02ec270cdadf4b5a
+1673363263 | WARN  | local-tagion: Sender not found
+1673363264 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363265 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363266 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363266 | TRACE | local-tagion: active_nodes=11
+1673363266 | TRACE | local-tagion: send_channel 031d26edffe0ef20
+1673363266 | WARN  | local-tagion: Sender not found
+1673363267 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363267 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363267 | TRACE | local-tagion: active_nodes=11
+1673363267 | TRACE | local-tagion: send_channel 02b2cba20f0338ac
+1673363267 | WARN  | local-tagion: Sender not found
+1673363268 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363268 | TRACE | local-tagion: active_nodes=11
+1673363268 | TRACE | local-tagion: send_channel 02522ca5d48b79a1
+1673363268 | WARN  | local-tagion: Sender not found
+1673363269 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363270 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363270 | TRACE | local-tagion: active_nodes=11
+1673363270 | TRACE | local-tagion: send_channel 031d26edffe0ef20
+1673363270 | WARN  | local-tagion: Sender not found
+1673363271 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363271 | TRACE | local-tagion: active_nodes=11
+1673363271 | TRACE | local-tagion: send_channel 031d26edffe0ef20
+1673363271 | WARN  | local-tagion: Sender not found
+1673363271 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363271 | TRACE | local-tagion: active_nodes=11
+1673363271 | TRACE | local-tagion: send_channel 0390b82619c52f7c
+1673363271 | WARN  | local-tagion: Sender not found
+1673363272 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363272 | TRACE | local-tagion: active_nodes=11
+1673363272 | TRACE | local-tagion: send_channel 02b2cba20f0338ac
+1673363272 | WARN  | local-tagion: Sender not found
+1673363273 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363273 | TRACE | local-tagion: active_nodes=11
+1673363273 | TRACE | local-tagion: send_channel 02ec270cdadf4b5a
+1673363273 | WARN  | local-tagion: Sender not found
+1673363274 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363275 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363275 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363276 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363277 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363277 | TRACE | local-tagion: active_nodes=11
+1673363277 | TRACE | local-tagion: send_channel 02b2cba20f0338ac
+1673363277 | WARN  | local-tagion: Sender not found
+1673363278 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363278 | TRACE | local-tagion: active_nodes=11
+1673363278 | TRACE | local-tagion: send_channel 02b2cba20f0338ac
+1673363278 | WARN  | local-tagion: Sender not found
+1673363279 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363279 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363279 | TRACE | local-tagion: active_nodes=11
+1673363279 | TRACE | local-tagion: send_channel 031d26edffe0ef20
+1673363279 | WARN  | local-tagion: Sender not found
+1673363280 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363280 | TRACE | local-tagion: active_nodes=11
+1673363280 | TRACE | local-tagion: send_channel 02ec270cdadf4b5a
+1673363280 | WARN  | local-tagion: Sender not found
+1673363281 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363281 | TRACE | local-tagion: active_nodes=11
+1673363281 | TRACE | local-tagion: send_channel 02ec270cdadf4b5a
+1673363281 | WARN  | local-tagion: Sender not found
+1673363282 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363283 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363283 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363284 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363285 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363286 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363286 | TRACE | local-tagion: active_nodes=11
+1673363286 | TRACE | local-tagion: send_channel 02a129493216004b
+1673363286 | WARN  | local-tagion: Sender not found
+1673363287 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363287 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363287 | TRACE | local-tagion: active_nodes=11
+1673363287 | TRACE | local-tagion: send_channel 02522ca5d48b79a1
+1673363287 | WARN  | local-tagion: Sender not found
+1673363288 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363289 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363290 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363290 | TRACE | local-tagion: active_nodes=11
+1673363290 | TRACE | local-tagion: send_channel 03153effb3abc9a3
+1673363290 | WARN  | local-tagion: Sender not found
+1673363291 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363291 | TRACE | local-tagion: active_nodes=11
+1673363291 | TRACE | local-tagion: send_channel 0390b82619c52f7c
+1673363291 | WARN  | local-tagion: Sender not found
+1673363291 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363291 | TRACE | local-tagion: active_nodes=11
+1673363291 | TRACE | local-tagion: send_channel 02ec270cdadf4b5a
+1673363291 | WARN  | local-tagion: Sender not found
+1673363292 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363292 | TRACE | local-tagion: active_nodes=11
+1673363292 | TRACE | local-tagion: send_channel 02e4d7627c662cf7
+1673363292 | WARN  | local-tagion: Sender not found
+1673363293 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363294 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363294 | TRACE | local-tagion: active_nodes=11
+1673363294 | TRACE | local-tagion: send_channel 02522ca5d48b79a1
+1673363294 | WARN  | local-tagion: Sender not found
+1673363295 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363295 | TRACE | local-tagion: active_nodes=11
+1673363295 | TRACE | local-tagion: send_channel 02b2cba20f0338ac
+1673363295 | WARN  | local-tagion: Sender not found
+1673363295 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363296 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363296 | TRACE | local-tagion: active_nodes=11
+1673363296 | TRACE | local-tagion: send_channel 03153effb3abc9a3
+1673363296 | WARN  | local-tagion: Sender not found
+1673363297 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363297 | TRACE | local-tagion: active_nodes=11
+1673363297 | TRACE | local-tagion: send_channel 02b2cba20f0338ac
+1673363297 | WARN  | local-tagion: Sender not found
+1673363298 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363298 | TRACE | local-tagion: active_nodes=11
+1673363298 | TRACE | local-tagion: send_channel 02a129493216004b
+1673363298 | WARN  | local-tagion: Sender not found
+1673363299 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363299 | TRACE | local-tagion: active_nodes=11
+1673363299 | TRACE | local-tagion: send_channel 02b2cba20f0338ac
+1673363299 | WARN  | local-tagion: Sender not found
+1673363299 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363300 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363301 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363302 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363303 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363303 | TRACE | local-tagion: active_nodes=11
+1673363303 | TRACE | local-tagion: send_channel 02522ca5d48b79a1
+1673363303 | WARN  | local-tagion: Sender not found
+1673363303 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363303 | TRACE | local-tagion: active_nodes=11
+1673363303 | TRACE | local-tagion: send_channel 02e4d7627c662cf7
+1673363303 | WARN  | local-tagion: Sender not found
+1673363304 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363305 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363305 | TRACE | local-tagion: active_nodes=11
+1673363305 | TRACE | local-tagion: send_channel 0241affcd055a6a9
+1673363305 | WARN  | local-tagion: Sender not found
+1673363306 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363307 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363307 | TRACE | local-tagion: active_nodes=11
+1673363307 | TRACE | local-tagion: send_channel 03153effb3abc9a3
+1673363307 | WARN  | local-tagion: Sender not found
+1673363307 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363307 | TRACE | local-tagion: active_nodes=11
+1673363307 | TRACE | local-tagion: send_channel 0338c05c208f2584
+1673363307 | WARN  | local-tagion: Sender not found
+1673363308 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363309 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363310 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363310 | TRACE | local-tagion: active_nodes=11
+1673363310 | TRACE | local-tagion: send_channel 02a129493216004b
+1673363310 | WARN  | local-tagion: Sender not found
+1673363311 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363311 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363312 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363312 | TRACE | local-tagion: active_nodes=11
+1673363312 | TRACE | local-tagion: send_channel 0338c05c208f2584
+1673363312 | WARN  | local-tagion: Sender not found
+1673363313 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363313 | TRACE | local-tagion: active_nodes=11
+1673363313 | TRACE | local-tagion: send_channel 02a129493216004b
+1673363313 | WARN  | local-tagion: Sender not found
+1673363314 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363314 | TRACE | local-tagion: active_nodes=11
+1673363314 | TRACE | local-tagion: send_channel 031d26edffe0ef20
+1673363314 | WARN  | local-tagion: Sender not found
+1673363315 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363315 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363316 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363316 | TRACE | local-tagion: active_nodes=11
+1673363316 | TRACE | local-tagion: send_channel 0390b82619c52f7c
+1673363316 | WARN  | local-tagion: Sender not found
+1673363317 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363318 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363318 | TRACE | local-tagion: active_nodes=11
+1673363318 | TRACE | local-tagion: send_channel 0241affcd055a6a9
+1673363318 | WARN  | local-tagion: Sender not found
+1673363319 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363319 | TRACE | local-tagion: active_nodes=11
+1673363319 | TRACE | local-tagion: send_channel 0241affcd055a6a9
+1673363319 | WARN  | local-tagion: Sender not found
+1673363319 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363319 | TRACE | local-tagion: active_nodes=11
+1673363319 | TRACE | local-tagion: send_channel 031d26edffe0ef20
+1673363319 | WARN  | local-tagion: Sender not found
+1673363320 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363321 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363321 | TRACE | local-tagion: active_nodes=11
+1673363321 | TRACE | local-tagion: send_channel 0338c05c208f2584
+1673363321 | WARN  | local-tagion: Sender not found
+1673363322 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363323 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363323 | TRACE | local-tagion: active_nodes=11
+1673363323 | TRACE | local-tagion: send_channel 02a129493216004b
+1673363323 | WARN  | local-tagion: Sender not found
+1673363323 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363323 | TRACE | local-tagion: active_nodes=11
+1673363323 | TRACE | local-tagion: send_channel 0338c05c208f2584
+1673363323 | WARN  | local-tagion: Sender not found
+1673363324 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363324 | TRACE | local-tagion: active_nodes=11
+1673363324 | TRACE | local-tagion: send_channel 02522ca5d48b79a1
+1673363324 | WARN  | local-tagion: Sender not found
+1673363325 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363325 | TRACE | local-tagion: active_nodes=11
+1673363325 | TRACE | local-tagion: send_channel 031d26edffe0ef20
+1673363325 | WARN  | local-tagion: Sender not found
+1673363326 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363327 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363327 | TRACE | local-tagion: active_nodes=11
+1673363327 | TRACE | local-tagion: send_channel 0390b82619c52f7c
+1673363327 | WARN  | local-tagion: Sender not found
+1673363327 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363328 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363328 | TRACE | local-tagion: active_nodes=11
+1673363328 | TRACE | local-tagion: send_channel 02b2cba20f0338ac
+1673363328 | WARN  | local-tagion: Sender not found
+1673363329 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363330 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363330 | TRACE | local-tagion: active_nodes=11
+1673363330 | TRACE | local-tagion: send_channel 02ec270cdadf4b5a
+1673363330 | WARN  | local-tagion: Sender not found
+1673363331 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363331 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363332 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363333 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363334 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363335 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363335 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363336 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363336 | TRACE | local-tagion: active_nodes=11
+1673363336 | TRACE | local-tagion: send_channel 02522ca5d48b79a1
+1673363336 | WARN  | local-tagion: Sender not found
+1673363337 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363337 | TRACE | local-tagion: active_nodes=11
+1673363337 | TRACE | local-tagion: send_channel 0338c05c208f2584
+1673363337 | WARN  | local-tagion: Sender not found
+1673363338 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363339 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363339 | TRACE | local-tagion: active_nodes=11
+1673363339 | TRACE | local-tagion: send_channel 02522ca5d48b79a1
+1673363339 | WARN  | local-tagion: Sender not found
+1673363339 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363340 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363341 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363342 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363342 | TRACE | local-tagion: active_nodes=11
+1673363342 | TRACE | local-tagion: send_channel 02a129493216004b
+1673363342 | WARN  | local-tagion: Sender not found
+1673363343 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363343 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363343 | TRACE | local-tagion: active_nodes=11
+1673363343 | TRACE | local-tagion: send_channel 02e4d7627c662cf7
+1673363343 | WARN  | local-tagion: Sender not found
+1673363344 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363345 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363346 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363346 | TRACE | local-tagion: active_nodes=11
+1673363346 | TRACE | local-tagion: send_channel 0241affcd055a6a9
+1673363346 | WARN  | local-tagion: Sender not found
+1673363347 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363347 | TRACE | local-tagion: active_nodes=11
+1673363347 | TRACE | local-tagion: send_channel 0338c05c208f2584
+1673363347 | WARN  | local-tagion: Sender not found
+1673363347 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363348 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363349 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363349 | TRACE | local-tagion: active_nodes=11
+1673363349 | TRACE | local-tagion: send_channel 031d26edffe0ef20
+1673363349 | WARN  | local-tagion: Sender not found
+1673363350 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363351 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363351 | TRACE | local-tagion: active_nodes=11
+1673363351 | TRACE | local-tagion: send_channel 02e4d7627c662cf7
+1673363351 | WARN  | local-tagion: Sender not found
+1673363351 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363351 | TRACE | local-tagion: active_nodes=11
+1673363351 | TRACE | local-tagion: send_channel 0390b82619c52f7c
+1673363351 | WARN  | local-tagion: Sender not found
+1673363352 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363353 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363353 | TRACE | local-tagion: active_nodes=11
+1673363353 | TRACE | local-tagion: send_channel 02ec270cdadf4b5a
+1673363353 | WARN  | local-tagion: Sender not found
+1673363354 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363354 | TRACE | local-tagion: active_nodes=11
+1673363354 | TRACE | local-tagion: send_channel 02ec270cdadf4b5a
+1673363354 | WARN  | local-tagion: Sender not found
+1673363355 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363355 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363355 | TRACE | local-tagion: active_nodes=11
+1673363355 | TRACE | local-tagion: send_channel 031d26edffe0ef20
+1673363355 | WARN  | local-tagion: Sender not found
+1673363356 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363357 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363358 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363358 | TRACE | local-tagion: active_nodes=11
+1673363358 | TRACE | local-tagion: send_channel 02ec270cdadf4b5a
+1673363358 | WARN  | local-tagion: Sender not found
+1673363359 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363359 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363359 | TRACE | local-tagion: active_nodes=11
+1673363359 | TRACE | local-tagion: send_channel 02ec270cdadf4b5a
+1673363359 | WARN  | local-tagion: Sender not found
+1673363360 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363361 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363361 | TRACE | local-tagion: active_nodes=11
+1673363361 | TRACE | local-tagion: send_channel 02e4d7627c662cf7
+1673363361 | WARN  | local-tagion: Sender not found
+1673363362 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363362 | TRACE | local-tagion: active_nodes=11
+1673363362 | TRACE | local-tagion: send_channel 02e4d7627c662cf7
+1673363362 | WARN  | local-tagion: Sender not found
+1673363363 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363363 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363363 | TRACE | local-tagion: active_nodes=11
+1673363363 | TRACE | local-tagion: send_channel 02e4d7627c662cf7
+1673363363 | WARN  | local-tagion: Sender not found
+1673363364 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363365 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363366 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363367 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363367 | TRACE | local-tagion: active_nodes=11
+1673363367 | TRACE | local-tagion: send_channel 0390b82619c52f7c
+1673363367 | WARN  | local-tagion: Sender not found
+1673363367 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363368 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363369 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363369 | TRACE | local-tagion: active_nodes=11
+1673363369 | TRACE | local-tagion: send_channel 02b2cba20f0338ac
+1673363369 | WARN  | local-tagion: Sender not found
+1673363370 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363371 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363371 | TRACE | local-tagion: active_nodes=11
+1673363371 | TRACE | local-tagion: send_channel 02ec270cdadf4b5a
+1673363371 | WARN  | local-tagion: Sender not found
+1673363371 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363372 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363372 | TRACE | local-tagion: active_nodes=11
+1673363372 | TRACE | local-tagion: send_channel 02522ca5d48b79a1
+1673363372 | WARN  | local-tagion: Sender not found
+1673363373 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363374 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363375 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363375 | TRACE | local-tagion: active_nodes=11
+1673363375 | TRACE | local-tagion: send_channel 02522ca5d48b79a1
+1673363375 | WARN  | local-tagion: Sender not found
+1673363375 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363375 | TRACE | local-tagion: active_nodes=11
+1673363375 | TRACE | local-tagion: send_channel 03153effb3abc9a3
+1673363375 | WARN  | local-tagion: Sender not found
+1673363376 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363377 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363377 | TRACE | local-tagion: active_nodes=11
+1673363377 | TRACE | local-tagion: send_channel 02a129493216004b
+1673363377 | WARN  | local-tagion: Sender not found
+1673363378 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363379 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363379 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363380 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363381 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363381 | TRACE | local-tagion: active_nodes=11
+1673363381 | TRACE | local-tagion: send_channel 02522ca5d48b79a1
+1673363381 | WARN  | local-tagion: Sender not found
+1673363382 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363383 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363383 | TRACE | local-tagion: active_nodes=11
+1673363383 | TRACE | local-tagion: send_channel 0241affcd055a6a9
+1673363383 | WARN  | local-tagion: Sender not found
+1673363383 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363383 | TRACE | local-tagion: active_nodes=11
+1673363383 | TRACE | local-tagion: send_channel 0241affcd055a6a9
+1673363383 | WARN  | local-tagion: Sender not found
+1673363384 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363385 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363386 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363387 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363387 | TRACE | local-tagion: active_nodes=11
+1673363387 | TRACE | local-tagion: send_channel 02a129493216004b
+1673363387 | WARN  | local-tagion: Sender not found
+1673363387 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363387 | TRACE | local-tagion: active_nodes=11
+1673363387 | TRACE | local-tagion: send_channel 03153effb3abc9a3
+1673363387 | WARN  | local-tagion: Sender not found
+1673363388 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363389 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363389 | TRACE | local-tagion: active_nodes=11
+1673363389 | TRACE | local-tagion: send_channel 02e4d7627c662cf7
+1673363389 | WARN  | local-tagion: Sender not found
+1673363390 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363390 | TRACE | local-tagion: active_nodes=11
+1673363390 | TRACE | local-tagion: send_channel 031d26edffe0ef20
+1673363390 | WARN  | local-tagion: Sender not found
+1673363391 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363391 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363392 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363393 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363394 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363395 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363395 | TRACE | local-tagion: active_nodes=11
+1673363395 | TRACE | local-tagion: send_channel 02b2cba20f0338ac
+1673363395 | WARN  | local-tagion: Sender not found
+1673363395 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363395 | TRACE | local-tagion: active_nodes=11
+1673363395 | TRACE | local-tagion: send_channel 031d26edffe0ef20
+1673363395 | WARN  | local-tagion: Sender not found
+1673363396 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363396 | TRACE | local-tagion: active_nodes=11
+1673363396 | TRACE | local-tagion: send_channel 031d26edffe0ef20
+1673363396 | WARN  | local-tagion: Sender not found
+1673363397 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363397 | TRACE | local-tagion: active_nodes=11
+1673363397 | TRACE | local-tagion: send_channel 02e4d7627c662cf7
+1673363397 | WARN  | local-tagion: Sender not found
+1673363398 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363398 | TRACE | local-tagion: active_nodes=11
+1673363398 | TRACE | local-tagion: send_channel 031d26edffe0ef20
+1673363398 | WARN  | local-tagion: Sender not found
+1673363399 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363399 | TRACE | local-tagion: active_nodes=11
+1673363399 | TRACE | local-tagion: send_channel 02522ca5d48b79a1
+1673363399 | WARN  | local-tagion: Sender not found
+1673363399 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363400 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363401 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363401 | TRACE | local-tagion: active_nodes=11
+1673363401 | TRACE | local-tagion: send_channel 0338c05c208f2584
+1673363401 | WARN  | local-tagion: Sender not found
+1673363402 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363403 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363403 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363404 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363405 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363406 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363407 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363407 | TRACE | local-tagion: active_nodes=11
+1673363407 | TRACE | local-tagion: send_channel 02b2cba20f0338ac
+1673363407 | WARN  | local-tagion: Sender not found
+1673363407 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363408 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363408 | TRACE | local-tagion: active_nodes=11
+1673363408 | TRACE | local-tagion: send_channel 0241affcd055a6a9
+1673363408 | WARN  | local-tagion: Sender not found
+1673363409 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363410 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363410 | TRACE | local-tagion: active_nodes=11
+1673363410 | TRACE | local-tagion: send_channel 02e4d7627c662cf7
+1673363410 | WARN  | local-tagion: Sender not found
+1673363411 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363411 | TRACE | local-tagion: active_nodes=11
+1673363411 | TRACE | local-tagion: send_channel 02ec270cdadf4b5a
+1673363411 | WARN  | local-tagion: Sender not found
+1673363411 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363412 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363413 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363413 | TRACE | local-tagion: active_nodes=11
+1673363413 | TRACE | local-tagion: send_channel 0241affcd055a6a9
+1673363413 | WARN  | local-tagion: Sender not found
+1673363414 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363415 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363415 | TRACE | local-tagion: active_nodes=11
+1673363415 | TRACE | local-tagion: send_channel 0338c05c208f2584
+1673363415 | WARN  | local-tagion: Sender not found
+1673363415 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363416 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363417 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363418 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363419 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363419 | TRACE | local-tagion: active_nodes=11
+1673363419 | TRACE | local-tagion: send_channel 02ec270cdadf4b5a
+1673363419 | WARN  | local-tagion: Sender not found
+1673363419 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363419 | TRACE | local-tagion: active_nodes=11
+1673363419 | TRACE | local-tagion: send_channel 0241affcd055a6a9
+1673363419 | WARN  | local-tagion: Sender not found
+1673363420 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363420 | TRACE | local-tagion: active_nodes=11
+1673363420 | TRACE | local-tagion: send_channel 0241affcd055a6a9
+1673363420 | WARN  | local-tagion: Sender not found
+1673363421 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363421 | TRACE | local-tagion: active_nodes=11
+1673363421 | TRACE | local-tagion: send_channel 0241affcd055a6a9
+1673363421 | WARN  | local-tagion: Sender not found
+1673363422 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363422 | TRACE | local-tagion: active_nodes=11
+1673363422 | TRACE | local-tagion: send_channel 0338c05c208f2584
+1673363422 | WARN  | local-tagion: Sender not found
+1673363423 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363423 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363424 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363425 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363425 | TRACE | local-tagion: active_nodes=11
+1673363425 | TRACE | local-tagion: send_channel 031d26edffe0ef20
+1673363425 | WARN  | local-tagion: Sender not found
+1673363426 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363427 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363427 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363427 | TRACE | local-tagion: active_nodes=11
+1673363427 | TRACE | local-tagion: send_channel 031d26edffe0ef20
+1673363427 | WARN  | local-tagion: Sender not found
+1673363428 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363429 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363430 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363431 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363431 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363431 | TRACE | local-tagion: active_nodes=11
+1673363431 | TRACE | local-tagion: send_channel 03153effb3abc9a3
+1673363431 | WARN  | local-tagion: Sender not found
+1673363432 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363432 | TRACE | local-tagion: active_nodes=11
+1673363432 | TRACE | local-tagion: send_channel 02ec270cdadf4b5a
+1673363432 | WARN  | local-tagion: Sender not found
+1673363433 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363434 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363434 | TRACE | local-tagion: active_nodes=11
+1673363434 | TRACE | local-tagion: send_channel 02a129493216004b
+1673363434 | WARN  | local-tagion: Sender not found
+1673363435 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363435 | TRACE | local-tagion: active_nodes=11
+1673363435 | TRACE | local-tagion: send_channel 0241affcd055a6a9
+1673363435 | WARN  | local-tagion: Sender not found
+1673363435 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363436 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363437 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363437 | TRACE | local-tagion: active_nodes=11
+1673363437 | TRACE | local-tagion: send_channel 02ec270cdadf4b5a
+1673363437 | WARN  | local-tagion: Sender not found
+1673363438 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363438 | TRACE | local-tagion: active_nodes=11
+1673363438 | TRACE | local-tagion: send_channel 02b2cba20f0338ac
+1673363438 | WARN  | local-tagion: Sender not found
+1673363439 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363439 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363439 | TRACE | local-tagion: active_nodes=11
+1673363439 | TRACE | local-tagion: send_channel 0390b82619c52f7c
+1673363439 | WARN  | local-tagion: Sender not found
+1673363440 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363441 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363441 | TRACE | local-tagion: active_nodes=11
+1673363441 | TRACE | local-tagion: send_channel 02522ca5d48b79a1
+1673363441 | WARN  | local-tagion: Sender not found
+1673363442 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363443 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363443 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363444 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363444 | TRACE | local-tagion: active_nodes=11
+1673363444 | TRACE | local-tagion: send_channel 02e4d7627c662cf7
+1673363444 | WARN  | local-tagion: Sender not found
+1673363445 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363446 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363446 | TRACE | local-tagion: active_nodes=11
+1673363446 | TRACE | local-tagion: send_channel 02a129493216004b
+1673363446 | WARN  | local-tagion: Sender not found
+1673363447 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
+1673363447 | TRACE | local-tagion: active_nodes=11
+1673363447 | TRACE | local-tagion: send_channel 0338c05c208f2584
+1673363447 | WARN  | local-tagion: Sender not found
+1673363447 | INFO  | local-tagion: ROUNDS: 1 AreWeInGraph: false Active 11
